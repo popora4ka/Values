@@ -254,7 +254,9 @@ def empty_result():
 
 
 def add_leaf(container, name, value, category):
-    rarity = RARITY_MAP.get(category, "unknown")
+    rarity = RARITY_MAP.get(category)
+    if rarity is None:
+        return  # Категория не в маппинге — пропускаем, чтобы не писать "unknown"
     if name not in container:
         container[name] = {}
     
