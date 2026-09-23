@@ -378,7 +378,7 @@
                 "common": "x1 T1"
             },
             "slouse's Clown": {
-                "unknown": "untradable"
+                "unique": "untradable"
             },
             "Blue Flaming": {
                 "unknown": "untradable"
@@ -404,29 +404,29 @@
         },
         "Пистолеты": {
             "Traveler's": {
-                "godly_chroma": "5,200"
+                "godly": "5,200"
             },
             "Vampire's": {
-                "godly_chroma": "1,775"
+                "godly": "1,775"
             },
             "Rainbow": {
-                "godly_chroma": "420",
+                "godly": "420",
                 "rare": "x4 T1"
             },
             "Flowerwood": {
-                "godly_chroma": "265"
+                "godly": "265"
             },
             "Swirly": {
-                "godly_chroma": "18"
+                "godly": "18"
             },
             "C. Traveler's": {
-                "godly_chroma": "155,000"
+                "chroma": "155,000"
             },
             "C. Vampire's": {
-                "godly_chroma": "29,000"
+                "chroma": "29,000"
             },
             "Chroma Swirly": {
-                "godly_chroma": "35"
+                "chroma": "35"
             },
             "Latte": {
                 "legendary": "140"
@@ -799,7 +799,7 @@
                 "common": "x2 T1"
             },
             "slouse's Clown": {
-                "unknown": "untradable"
+                "unique": "untradable"
             },
             "Fake": {
                 "unknown": "untradable"
@@ -808,395 +808,395 @@
     },
     "Прочее": {
         "Ever": {
-            "godly_chroma": "3,450"
+            "godly": "3,450"
         },
         "Constellation": {
-            "godly_chroma": "2,750"
+            "godly": "2,750"
         },
         "Evergreen": {
-            "godly_chroma": "2,500"
+            "godly": "2,500"
         },
         "Alienbeam": {
-            "godly_chroma": "2,050"
+            "godly": "2,050"
         },
         "Turkey": {
-            "godly_chroma": "2,000"
+            "godly": "2,000"
         },
         "Ray": {
-            "godly_chroma": "1,975"
+            "godly": "1,975"
         },
         "Darkshot": {
-            "godly_chroma": "1,800"
+            "godly": "1,800"
         },
         "Darksword": {
-            "godly_chroma": "1,775"
+            "godly": "1,775"
         },
         "Blossom": {
-            "godly_chroma": "1,370",
+            "godly": "1,370",
             "uncommon": "x2 T1",
             "common": "x4 T1"
         },
         "Sakura": {
-            "godly_chroma": "1,360"
+            "godly": "1,360"
         },
         "Sunrise": {
-            "godly_chroma": "1,075"
+            "godly": "1,075"
         },
         "Bauble": {
-            "godly_chroma": "675"
+            "godly": "675"
         },
         "Snowcannon": {
-            "godly_chroma": "675"
+            "godly": "675"
         },
         "Soul": {
-            "godly_chroma": "655"
+            "godly": "655"
         },
         "Sunset": {
-            "godly_chroma": "650",
+            "godly": "650",
             "rare": "x3 T1"
         },
         "Spirit": {
-            "godly_chroma": "645"
+            "godly": "645"
         },
         "Flora": {
-            "godly_chroma": "410"
+            "godly": "410"
         },
         "Rainbow": {
-            "godly_chroma": "410",
+            "godly": "410",
             "unknown": "untradable"
         },
         "Xeno": {
-            "godly_chroma": "405",
+            "godly": "405",
             "unknown": "untradable"
         },
         "Xenoshot": {
-            "godly_chroma": "405"
+            "godly": "405"
         },
         "Bloom": {
-            "godly_chroma": "400",
+            "godly": "400",
             "unknown": "untradable"
         },
         "Batwing": {
-            "godly_chroma": "1,000,000",
+            "godly": "1,000,000",
             "ancient_evo": "42"
         },
         "Black Luger": {
-            "godly_chroma": "1,000,000"
+            "godly": "1,000,000"
         },
         "Heart Wand": {
-            "godly_chroma": "340"
+            "godly": "340"
         },
         "Blizzard": {
-            "godly_chroma": "305",
+            "godly": "305",
             "unknown": "untradable"
         },
         "Snowstorm": {
-            "godly_chroma": "305",
+            "godly": "305",
             "unknown": "untradable"
         },
         "Ocean": {
-            "godly_chroma": "285",
+            "godly": "285",
             "unknown": "untradable"
         },
         "Waves": {
-            "godly_chroma": "280",
+            "godly": "280",
             "rare": "x2 T1"
         },
         "Flowerwood": {
-            "godly_chroma": "260",
+            "godly": "260",
             "unknown": "untradable"
         },
         "Snow Dagger": {
-            "godly_chroma": "175"
+            "godly": "175"
         },
         "Water": {
-            "godly_chroma": "170"
+            "godly": "170"
         },
         "Icecream": {
-            "godly_chroma": "155"
+            "godly": "155"
         },
         "Treat": {
-            "godly_chroma": "155"
+            "godly": "155"
         },
         "Sweet": {
-            "godly_chroma": "150"
+            "godly": "150"
         },
         "Borealis": {
-            "godly_chroma": "145"
+            "godly": "145"
         },
         "Australis": {
-            "godly_chroma": "140"
+            "godly": "140"
         },
         "Bat": {
-            "godly_chroma": "120",
+            "godly": "120",
             "unknown": "x2 T1"
         },
         "Beachy": {
-            "godly_chroma": "100"
+            "godly": "100"
         },
         "Sands": {
-            "godly_chroma": "100"
+            "godly": "100"
         },
         "Ornament": {
-            "godly_chroma": "85",
+            "godly": "85",
             "common": "x4 T1"
         },
         "Pearlshine": {
-            "godly_chroma": "80"
+            "godly": "80"
         },
         "Candy": {
-            "godly_chroma": "80",
+            "godly": "80",
             "unknown": "untradable"
         },
         "Pearl": {
-            "godly_chroma": "75"
+            "godly": "75"
         },
         "Heartblade": {
-            "godly_chroma": "65"
+            "godly": "65"
         },
         "Phantom": {
-            "godly_chroma": "35",
+            "godly": "35",
             "common": "10",
             "unknown": "untradable"
         },
         "Red Luger": {
-            "godly_chroma": "35"
+            "godly": "35"
         },
         "Spectre": {
-            "godly_chroma": "35"
+            "godly": "35"
         },
         "Candleflame": {
-            "godly_chroma": "33"
+            "godly": "33"
         },
         "Darkbringer": {
-            "godly_chroma": "33"
+            "godly": "33"
         },
         "Elderwood Blade": {
-            "godly_chroma": "33"
+            "godly": "33"
         },
         "Elderwood Revolver": {
-            "godly_chroma": "33"
+            "godly": "33"
         },
         "Iceblaster": {
-            "godly_chroma": "33"
+            "godly": "33"
         },
         "Makeshift": {
-            "godly_chroma": "33"
+            "godly": "33"
         },
         "Lightbringer": {
-            "godly_chroma": "32"
+            "godly": "32"
         },
         "Sugar": {
-            "godly_chroma": "32"
+            "godly": "32"
         },
         "Green Luger": {
-            "godly_chroma": "23"
+            "godly": "23"
         },
         "Amerilaser": {
-            "godly_chroma": "22"
+            "godly": "22"
         },
         "Laser": {
-            "godly_chroma": "22",
+            "godly": "22",
             "vintage": "8",
             "rare": "12"
         },
         "Hallow": {
-            "godly_chroma": "20"
+            "godly": "20"
         },
         "Nightblade": {
-            "godly_chroma": "20"
+            "godly": "20"
         },
         "Shark": {
-            "godly_chroma": "20"
+            "godly": "20"
         },
         "Icebeam": {
-            "godly_chroma": "18"
+            "godly": "18"
         },
         "Luger": {
-            "godly_chroma": "18"
+            "godly": "18"
         },
         "Plasmabeam": {
-            "godly_chroma": "18"
+            "godly": "18"
         },
         "Battleaxe II": {
-            "godly_chroma": "17"
+            "godly": "17"
         },
         "Blaster": {
-            "godly_chroma": "17"
+            "godly": "17"
         },
         "Ginger Luger": {
-            "godly_chroma": "17"
+            "godly": "17"
         },
         "Pixel": {
-            "godly_chroma": "17"
+            "godly": "17"
         },
         "Gemstone": {
-            "godly_chroma": "15"
+            "godly": "15"
         },
         "Iceflake": {
-            "godly_chroma": "15"
+            "godly": "15"
         },
         "Old Glory": {
-            "godly_chroma": "15"
+            "godly": "15"
         },
         "Plasmablade": {
-            "godly_chroma": "15"
+            "godly": "15"
         },
         "Slasher": {
-            "godly_chroma": "15"
+            "godly": "15"
         },
         "Vampire's Edge": {
-            "godly_chroma": "15"
+            "godly": "15"
         },
         "Cookiecane": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Deathshard": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Eternalcane": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Gingerblade": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Jingle": {
-            "godly_chroma": "13",
+            "godly": "13",
             "unknown": "untradable"
         },
         "Lugercane": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Minty": {
-            "godly_chroma": "13",
+            "godly": "13",
             "unknown": "untradable"
         },
         "Nebula": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Virtual": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Battleaxe": {
-            "godly_chroma": "12"
+            "godly": "12"
         },
         "Gingermint": {
-            "godly_chroma": "12"
+            "godly": "12"
         },
         "Swirly Blade": {
-            "godly_chroma": "12"
+            "godly": "12"
         },
         "Chill": {
-            "godly_chroma": "10"
+            "godly": "10"
         },
         "Clockwork": {
-            "godly_chroma": "10"
+            "godly": "10"
         },
         "Fang": {
-            "godly_chroma": "10"
+            "godly": "10"
         },
         "Frostsaber": {
-            "godly_chroma": "10"
+            "godly": "10"
         },
         "Heat": {
-            "godly_chroma": "10"
+            "godly": "10"
         },
         "Spider": {
-            "godly_chroma": "10",
+            "godly": "10",
             "common": "x2 T1"
         },
         "Tides": {
-            "godly_chroma": "10"
+            "godly": "10"
         },
         "Bio Blade": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Eternal III": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Eternal IV": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Hallow's Blade": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Hallow's Edge": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Handsaw": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Boneblade": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Eternal": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Eternal II": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Frostbite": {
-            "godly_chroma": "7",
+            "godly": "7",
             "unknown": "untradable"
         },
         "Ghostblade": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Ice Dragon": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Ice Shard": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Prismatic": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Pumpking": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Saw": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Xmas": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Eggblade": {
-            "godly_chroma": "5"
+            "godly": "5"
         },
         "Flames": {
-            "godly_chroma": "5"
+            "godly": "5"
         },
         "Snowflake": {
-            "godly_chroma": "5",
+            "godly": "5",
             "rare": "x2 T1",
             "unknown": "untradable"
         },
         "Winter's Edge": {
-            "godly_chroma": "5"
+            "godly": "5"
         },
         "Peppermint": {
-            "godly_chroma": "4"
+            "godly": "4"
         },
         "Cookieblade": {
-            "godly_chroma": "3"
+            "godly": "3"
         },
         "Blue Seer": {
-            "godly_chroma": "3"
+            "godly": "3"
         },
         "Purple Seer": {
-            "godly_chroma": "3"
+            "godly": "3"
         },
         "Red Seer": {
-            "godly_chroma": "3"
+            "godly": "3"
         },
         "Seer": {
-            "godly_chroma": "3"
+            "godly": "3"
         },
         "Orange Seer": {
-            "godly_chroma": "2"
+            "godly": "2"
         },
         "Yellow Seer": {
-            "godly_chroma": "2"
+            "godly": "2"
         },
         "Nik's Scythe": {
             "ancient_evo": "Priceless"
@@ -1239,139 +1239,139 @@
             "ancient_evo": "13"
         },
         "Chroma Ever": {
-            "godly_chroma": "57,000"
+            "chroma": "57,000"
         },
         "Chroma Evergreen": {
-            "godly_chroma": "41,000"
+            "chroma": "41,000"
         },
         "Chroma Bauble": {
-            "godly_chroma": "34,000"
+            "chroma": "34,000"
         },
         "C. Constellation": {
-            "godly_chroma": "31,000"
+            "chroma": "31,000"
         },
         "Chroma Alienbeam": {
-            "godly_chroma": "24,000"
+            "chroma": "24,000"
         },
         "Chroma Ray": {
-            "godly_chroma": "14,000"
+            "chroma": "14,000"
         },
         "Chroma Sunrise": {
-            "godly_chroma": "10,750"
+            "chroma": "10,750"
         },
         "Chroma Snowcannon": {
-            "godly_chroma": "7,750"
+            "chroma": "7,750"
         },
         "Chroma Sunset": {
-            "godly_chroma": "7,250"
+            "chroma": "7,250"
         },
         "Chroma Blizzard": {
-            "godly_chroma": "5,500"
+            "chroma": "5,500"
         },
         "Chroma Snowstorm": {
-            "godly_chroma": "4,250"
+            "chroma": "4,250"
         },
         "Chroma Heart Wand": {
-            "godly_chroma": "4,250"
+            "chroma": "4,250"
         },
         "Chroma Water": {
-            "godly_chroma": "2,600"
+            "chroma": "2,600"
         },
         "Chroma Snow Dagger": {
-            "godly_chroma": "2,350"
+            "chroma": "2,350"
         },
         "Chroma Ornament": {
-            "godly_chroma": "1,825"
+            "chroma": "1,825"
         },
         "Chroma Icecream": {
-            "godly_chroma": "1,800"
+            "chroma": "1,800"
         },
         "Chroma Treat": {
-            "godly_chroma": "1,775"
+            "chroma": "1,775"
         },
         "Chroma Sweet": {
-            "godly_chroma": "1,725"
+            "chroma": "1,725"
         },
         "Chroma Sands": {
-            "godly_chroma": "1,350"
+            "chroma": "1,350"
         },
         "Chroma Beachy": {
-            "godly_chroma": "1,300"
+            "chroma": "1,300"
         },
         "Chroma Darkbringer": {
-            "godly_chroma": "65"
+            "chroma": "65"
         },
         "Chroma Lightbringer": {
-            "godly_chroma": "60"
+            "chroma": "60"
         },
         "Chroma Luger": {
-            "godly_chroma": "50"
+            "chroma": "50"
         },
         "Chroma Candleflame": {
-            "godly_chroma": "40"
+            "chroma": "40"
         },
         "Chroma Laser": {
-            "godly_chroma": "40"
+            "chroma": "40"
         },
         "C. Elderwood Blade": {
-            "godly_chroma": "37"
+            "chroma": "37"
         },
         "Chroma Deathshard": {
-            "godly_chroma": "35"
+            "chroma": "35"
         },
         "Chroma Cookiecane": {
-            "godly_chroma": "32"
+            "chroma": "32"
         },
         "Chroma Fang": {
-            "godly_chroma": "32"
+            "chroma": "32"
         },
         "Chroma Gemstone": {
-            "godly_chroma": "32"
+            "chroma": "32"
         },
         "Chroma Shark": {
-            "godly_chroma": "32"
+            "chroma": "32"
         },
         "Chroma Slasher": {
-            "godly_chroma": "32"
+            "chroma": "32"
         },
         "Chroma Heat": {
-            "godly_chroma": "28"
+            "chroma": "28"
         },
         "Chroma Seer": {
-            "godly_chroma": "28"
+            "chroma": "28"
         },
         "Chroma Gingerblade": {
-            "godly_chroma": "27"
+            "chroma": "27"
         },
         "Chroma Tides": {
-            "godly_chroma": "27"
+            "chroma": "27"
         },
         "Chroma Saw": {
-            "godly_chroma": "23"
+            "chroma": "23"
         },
         "Chroma Boneblade": {
-            "godly_chroma": "22"
+            "chroma": "22"
         },
         "Chroma Fire Bat": {
-            "godly_chroma": "3"
+            "chroma": "3"
         },
         "Chroma Fire Bear": {
-            "godly_chroma": "3"
+            "chroma": "3"
         },
         "Chroma Fire Bunny": {
-            "godly_chroma": "3"
+            "chroma": "3"
         },
         "Chroma Fire Cat": {
-            "godly_chroma": "3"
+            "chroma": "3"
         },
         "Chroma Fire Dog": {
-            "godly_chroma": "3"
+            "chroma": "3"
         },
         "Chroma Fire Fox": {
-            "godly_chroma": "3"
+            "chroma": "3"
         },
         "Chroma Fire Pig": {
-            "godly_chroma": "3"
+            "chroma": "3"
         },
         "Blood": {
             "vintage": "8"
@@ -2913,289 +2913,289 @@
             "unknown": "535"
         },
         "Corrupt": {
-            "unknown": "350"
+            "unique": "350"
         },
         "Sharkseeker": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Dartbringer": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Candy": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Hallow": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Sugar": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Elderwood": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Minty": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Logchopper": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Vamp's Edge": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Iceblaster": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Icebreaker": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Harvester": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Swirly": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Icecrusher": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Icepiercer": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Traveler's": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Gingerscythe": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Gingerscope": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Vampire's Axe": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Constellation": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Celestial": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Synthwave": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Ray": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Snow Dagger": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Gold Snowcannon": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Candy": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Hallow": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Sugar": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Elderwood": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Minty": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Logchopper": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Vamp's Edge": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Iceblaster": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Icebreaker": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Harvester": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Swirly": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Icecrusher": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Icepiercer": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Traveler's": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Gingerscythe": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Gingerscope": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Vampire's Axe": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Constellation": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Celestial": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Synthwave": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Ray": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Snow Dagger": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Silver Snowcannon": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Candy": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Hallow": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Sugar": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Elderwood": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Minty": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Logchopper": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Vamp's Edge": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Iceblaster": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Icebreaker": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Harvester": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Swirly": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Icecrusher": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Icepiercer": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Traveler's": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Gingerscythe": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Gingerscope": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Vampire's Axe": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Constellation": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Celestial": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Synthwave": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Ray": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Snow Dagger": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Bronze Snowcannon": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Candy": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Hallow": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Sugar": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Elderwood": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Minty": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Logchopper": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Vamp's Edge": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Iceblaster": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Icebreaker": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Harvester": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Swirly": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Icecrusher": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Icepiercer": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Traveler's": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Gingerscythe": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Gingerscope": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Purple Vampire's Axe": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Constellation": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Celestial": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Blue Synthwave": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Ray": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Snow Dagger": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Red Snowcannon": {
-            "unknown": "untradable"
+            "unique": "untradable"
         },
         "Synthwave": {
             "ancient_evo": "untradable",
