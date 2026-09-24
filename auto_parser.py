@@ -137,7 +137,7 @@ def load_aliases():
     try:
         if ALIASES_PATH.exists():
             try:
-                text = ALIASES_PATH.read_text(encoding="utf8-sig")
+                text = ALIASES_PATH.read_text(encoding="utf-8-sig")
             except UnicodeDecodeError:
                 text = ALIASES_PATH.read_text(encoding="cp1251")
 
@@ -169,35 +169,50 @@ def load_aliases():
 
 
 def load_item_types():
-    """Read ItemName and ItemType from the optional Roblox database."""
+    """Read ItemName and ItemType from Roblox Lua item data."""
     result = {}
-
     if not ITEMS_PATH.exists():
         return result
-
     try:
         text = ITEMS_PATH.read_text(encoding="utf8", errors="ignore")
+    except Exception:
+        return result
 
-        pattern = re.compile(
-            r'ItemName\s*=\s*"([^"]+)".*?ItemType\s*=\s*"([^"]+)"',
-            re.DOTALL,
-        )
+    # The database uses both v1.Name = {...} and ["Name"] = {...}.
+    block_re = re.compile(
+        r'(?:v\d+\.)?([A-Za-z0-9_]+)\s*=\s*\{(.*?)(?=\n(?:v\d+\.)?[A-Za-z0-9_]+\s*=\s*\{|\Z)',
+        re.DOTALL,
+    )
+    bracket_re = re.compile(
+        r'\[\s*["\']([^"\']+)["\']\s*\]\s*=\s*\{(.*?)(?=\n\s*\[\s*["\']|\Z)',
+        re.DOTALL,
+    )
+    name_re = re.compile(
+        r'(?:\[\s*["\']ItemName["\']\s*\]|\bItemName)\s*=\s*["\']([^"\']+)["\']'
+    )
+    type_re = re.compile(
+        r'(?:\[\s*["\']ItemType["\']\s*\]|\bItemType)\s*=\s*["\']([^"\']+)["\']'
+    )
 
-        for match in pattern.finditer(text):
-            name = match.group(1).strip()
-            item_type = match.group(2).strip().lower()
-
-            if item_type in {"knife", "gun"}:
-                result[norm_key(name)] = item_type
-
-    except Exception as exc:
-        print(f"[items] failed to read items.txt: {exc}")
+    for match in list(block_re.finditer(text)) + list(bracket_re.finditer(text)):
+        key = match.group(1).strip()
+        block = match.group(2)
+        nm = name_re.search(block)
+        tp = type_re.search(block)
+        item_name = nm.group(1).strip() if nm else key
+        item_type = tp.group(1).strip().lower() if tp else ""
+        if item_type in {"knife", "gun"}:
+            result[norm_key(item_name)] = item_type
+            result.setdefault(norm_key(key), item_type)
 
     return result
 
 
 ALIASES = load_aliases()
 ITEM_TYPES = load_item_types()
+# Known special item whose Supreme Values name does not contain its
+# weapon type. The Roblox database identifies Corrupt as a Knife.
+ITEM_TYPES.setdefault("corrupt", "knife")
 
 
 def remove_paren_suffixes(name):
@@ -340,7 +355,7 @@ def _parse_col(col, category, untradable=False):
 
     weapon_type = detect_weapon_from_text(raw_name)
 
-    name_no_paren = remove_paren_suffixes(raw_name)
+    name_no_paren = raw_name.strip()
 
     if weapon_type is None:
         weapon_type = detect_weapon_from_text(name_no_paren)
@@ -364,14 +379,10 @@ def _parse_col(col, category, untradable=False):
             name = ALIASES[key]
             break
 
-    name = remove_paren_suffixes(name)
-
     if category == "chromas":
         name = normalize_chroma_name(name)
 
     name_before_weapon_cleanup = name
-    name = remove_trailing_weapon_words(name)
-
     if weapon_type is None:
         weapon_type = detect_weapon_from_text(
             name_before_weapon_cleanup
@@ -389,7 +400,7 @@ def _parse_col(col, category, untradable=False):
         value = extract_value(col)
 
         if value is None:
-            value = "untradable"
+            value = None
 
     return {
         "name": " ".join(name.split()).strip(),
@@ -423,20 +434,7 @@ def add_leaf(container, name, value, category):
     if name not in container:
         container[name] = {}
 
-    existing = container[name].get(rarity)
-
-    if existing is None or existing == value:
-        container[name][rarity] = value
-        return
-
-    # A duplicate inside one category should never destroy the
-    # previously parsed value.
-    duplicate_index = 2
-
-    while f"{rarity}_{duplicate_index}" in container[name]:
-        duplicate_index += 1
-
-    container[name][f"{rarity}_{duplicate_index}"] = value
+    container[name][rarity] = value
 
 
 def add_item(result, item):
