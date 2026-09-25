@@ -1,1377 +1,1268 @@
 {
     "Оружие": {
         "Ножи": {
-            "Latte": {
+            "Latte (Knife)": {
                 "legendary": "140"
             },
-            "Spectral": {
+            "Spectral (Knife)": {
                 "legendary": "50"
             },
-            "Cavern": {
+            "Cavern (Knife)": {
                 "legendary": "7"
             },
-            "Ghost": {
+            "Ghost (Knife)": {
                 "legendary": "5"
             },
-            "Aurora": {
+            "Aurora (Knife)": {
                 "legendary": "3",
                 "rare": "7"
             },
-            "Traveler": {
+            "Traveler (Knife)": {
                 "legendary": "3"
             },
-            "Vampire": {
+            "Vampire (Knife)": {
                 "legendary": "3",
                 "rare": "1"
             },
-            "Frostfade": {
+            "Frostfade (Knife)": {
                 "legendary": "2"
             },
-            "Chromatic": {
+            "Chromatic (Knife)": {
                 "legendary": "1"
             },
-            "Arctic": {
+            "Arctic (Knife)": {
                 "legendary": "x4 T1"
             },
-            "Cursed": {
+            "Cursed (Knife)": {
                 "legendary": "x4 T1"
             },
-            "Energized": {
+            "Energized (Knife)": {
                 "legendary": "x4 T1"
             },
-            "Predator": {
+            "Predator (Knife)": {
                 "legendary": "x4 T1"
             },
-            "Ripper": {
+            "Ripper (Knife)": {
                 "legendary": "x4 T1"
             },
-            "Tree": {
+            "Tree (Knife)": {
                 "legendary": "x4 T1",
                 "rare": "x3 T1"
             },
-            "Frozen": {
+            "Frozen (Knife)": {
                 "legendary": "x3 T1",
                 "uncommon": "1",
                 "common": "x3 T1"
             },
-            "Ginger": {
+            "Ginger (Knife)": {
                 "legendary": "x2 T1",
                 "rare": "x4 T1"
             },
-            "Aquarium": {
+            "Aquarium (Knife)": {
                 "legendary": "x2 T1"
             },
-            "Palms": {
+            "Palms (Knife)": {
                 "legendary": "x2 T1"
             },
-            "Overseer": {
+            "Overseer (Knife)": {
                 "legendary": "x4 T1"
             },
-            "Splash": {
+            "Splash (Knife)": {
                 "legendary": "x4 T1"
             },
-            "Cane": {
-                "rare": "525",
-                "rare_2": "x4 T1",
+            "Cane (Knife)": {
+                "rare": "x4 T1",
                 "common": "x3 T1"
             },
-            "Silent Night": {
+            "Silent Night (Knife)": {
                 "rare": "50"
             },
-            "Makeshift": {
+            "Makeshift (Knife)": {
                 "rare": "35"
             },
-            "Floral": {
+            "Floral (Knife)": {
                 "rare": "10"
             },
-            "Toxic": {
+            "Toxic (Knife)": {
                 "rare": "5"
             },
-            "Wraith": {
+            "Wraith (Knife)": {
                 "rare": "5"
             },
-            "Snakebite": {
+            "Snakebite (Knife)": {
                 "rare": "3"
             },
-            "Candy Swirl": {
+            "Candy Swirl (Knife)": {
                 "rare": "1"
             },
-            "Starry": {
+            "Starry (Knife)": {
                 "rare": "x4 T1"
             },
-            "Magma": {
+            "Magma (Knife)": {
                 "rare": "x3 T1"
             },
-            "Watcher": {
+            "Watcher (Knife)": {
                 "rare": "x3 T1",
                 "common": "x2 T1"
             },
-            "Icicles": {
+            "Icicles (Knife)": {
                 "rare": "x3 T1"
             },
-            "Ghastly": {
+            "Ghastly (Knife)": {
                 "rare": "x2 T1"
             },
-            "Molten": {
+            "Molten (Knife)": {
                 "rare": "x2 T1"
             },
-            "Frostflame": {
+            "Frostflame (Knife)": {
                 "rare": "x1 T1"
             },
-            "Gingerbread": {
+            "Gingerbread (Knife)": {
                 "rare": "x1 T1",
-                "uncommon": "85",
-                "uncommon_2": "10",
-                "uncommon_3": "x2 T1"
+                "uncommon": "x2 T1"
             },
-            "Painted": {
+            "Painted (Knife)": {
                 "rare": "x1 T1"
             },
-            "Bones": {
+            "Bones (Knife)": {
                 "rare": "x3 T1",
                 "uncommon": "x2 T1"
             },
-            "Gingercookie": {
+            "Gingercookie (Knife)": {
                 "rare": "x3 T1"
             },
-            "Pop Art": {
+            "Pop Art (Knife)": {
                 "rare": "x3 T1"
             },
-            "Xeno": {
+            "Xeno (Knife)": {
                 "rare": "x3 T1"
             },
-            "Hologram": {
+            "Hologram (Knife)": {
                 "rare": "x2 T1"
             },
-            "Portal": {
+            "Portal (Knife)": {
                 "rare": "x2 T1"
             },
-            "Spearmint": {
+            "Spearmint (Knife)": {
                 "rare": "x2 T1"
             },
-            "Rainbow": {
+            "Rainbow (Knife)": {
                 "rare": "x4 T1"
             },
-            "Zombified": {
+            "Zombified (Knife)": {
                 "uncommon": "120"
             },
-            "Sweater": {
-                "uncommon": "60",
-                "uncommon_2": "x3 T1"
+            "Sweater (Knife)": {
+                "uncommon": "x3 T1"
             },
-            "Snowflake": {
-                "uncommon": "55",
-                "uncommon_2": "x1 T1"
+            "Snowflake (Knife)": {
+                "uncommon": "x1 T1"
             },
-            "Wrap": {
+            "Wrap (Knife)": {
                 "uncommon": "12"
             },
-            "Stars": {
+            "Stars (Knife)": {
                 "uncommon": "2"
             },
-            "Potion": {
+            "Potion (Knife)": {
                 "uncommon": "2"
             },
-            "Cookie": {
+            "Cookie (Knife)": {
                 "uncommon": "1"
             },
-            "Lights": {
+            "Lights (Knife)": {
                 "uncommon": "1",
                 "common": "x2 T1"
             },
-            "Mummy": {
-                "uncommon": "1",
-                "uncommon_2": "x1 T1"
+            "Mummy (Knife)": {
+                "uncommon": "x1 T1"
             },
-            "Zombie": {
+            "Zombie (Knife)": {
                 "uncommon": "1"
             },
-            "Gothic": {
+            "Gothic (Knife)": {
                 "uncommon": "x4 T1"
             },
-            "Snowman": {
-                "uncommon": "x4 T1",
-                "uncommon_2": "x1 T1",
-                "common": "x3 T1",
-                "common_2": "x2 T1"
+            "Snowman (Knife)": {
+                "uncommon": "x1 T1",
+                "common": "x2 T1"
             },
-            "Wrapped": {
-                "uncommon": "x4 T1",
-                "uncommon_2": "x2 T1",
+            "Wrapped (Knife)": {
+                "uncommon": "x2 T1",
                 "common": "x3 T1"
             },
-            "Steel": {
+            "Steel (Knife)": {
                 "uncommon": "x2 T1"
             },
-            "Wraiths": {
+            "Wraiths (Knife)": {
                 "uncommon": "x1 T1"
             },
-            "Hazard": {
+            "Hazard (Knife)": {
                 "uncommon": "x3 T1"
             },
-            "Holly": {
+            "Holly (Knife)": {
                 "uncommon": "x1 T1"
             },
-            "Stockings": {
+            "Stockings (Knife)": {
                 "uncommon": "x3 T1"
             },
-            "Carrot": {
+            "Carrot (Knife)": {
                 "uncommon": "x3 T1"
             },
-            "Lava": {
+            "Lava (Knife)": {
                 "uncommon": "x3 T1"
             },
-            "Mistletoe": {
+            "Mistletoe (Knife)": {
                 "uncommon": "x3 T1"
             },
-            "Canes": {
+            "Canes (Knife)": {
                 "uncommon": "x3 T1"
             },
-            "Ghosts": {
+            "Ghosts (Knife)": {
                 "uncommon": "x2 T1"
             },
-            "Pumpkin": {
+            "Pumpkin (Knife)": {
                 "uncommon": "x2 T1"
             },
-            "Soda": {
+            "Soda (Knife)": {
                 "uncommon": "x2 T1"
             },
-            "Treats": {
+            "Treats (Knife)": {
                 "uncommon": "x2 T1"
             },
-            "Adurite": {
+            "Adurite (Knife)": {
                 "uncommon": "x4 T1"
             },
-            "Bluesteel": {
+            "Bluesteel (Knife)": {
                 "uncommon": "x4 T1"
             },
-            "Camo": {
+            "Camo (Knife)": {
                 "uncommon": "x4 T1"
             },
-            "Default": {
-                "common": "untradable"
+            "Default Knife": {
+                "common": null
             },
-            "Bats": {
-                "common": "240",
-                "common_2": "x2 T1"
+            "Bats (Knife)": {
+                "common": "x2 T1"
             },
-            "Gifts": {
+            "Gifts (Knife)": {
                 "common": "95"
             },
-            "Pine": {
+            "Pine (Knife)": {
                 "common": "85"
             },
-            "Frosted": {
+            "Frosted (Knife)": {
                 "common": "30"
             },
-            "Coal": {
-                "common": "15",
-                "common_2": "x3 T1",
-                "common_3": "x2 T1"
+            "Coal (Knife)": {
+                "common": "x2 T1"
             },
-            "Elf": {
+            "Elf (Knife)": {
                 "common": "15"
             },
-            "Grave": {
+            "Grave (Knife)": {
                 "common": "1"
             },
-            "Haunted": {
+            "Haunted (Knife)": {
                 "common": "1"
             },
-            "Slime": {
+            "Slime (Knife)": {
                 "common": "1"
             },
-            "Apocalypse": {
+            "Apocalypse (Knife)": {
                 "common": "x4 T1"
             },
-            "Infected": {
+            "Infected (Knife)": {
                 "common": "x4 T1"
             },
-            "Webbed": {
+            "Webbed (Knife)": {
                 "common": "x4 T1"
             },
-            "Ornament2": {
+            "2015": {
                 "common": "x4 T1"
             },
-            "Santa": {
+            "Ornament2 (Knife)": {
                 "common": "x4 T1"
             },
-            "Gift Bag": {
+            "Santa (Knife)": {
+                "common": "x4 T1"
+            },
+            "Gift Bag (Knife)": {
                 "common": "x3 T1"
             },
-            "Snowflakes": {
+            "Snowflakes (Knife)": {
                 "common": "x2 T1"
             },
-            "RB": {
+            "RB Knife": {
                 "common": "x3 T1"
             },
-            "Candied": {
+            "Candied (Knife)": {
                 "common": "x2 T1"
             },
-            "Darkness": {
+            "Darkness (Knife)": {
                 "common": "x2 T1"
             },
-            "Fragile": {
+            "Fragile (Knife)": {
                 "common": "x2 T1"
             },
-            "Ornaments": {
+            "Ornaments (Knife)": {
                 "common": "x2 T1"
             },
-            "Toy": {
+            "Toy (Knife)": {
                 "common": "x2 T1"
             },
-            "Vines": {
+            "Vines (Knife)": {
                 "common": "x1 T1"
             },
-            "Candy Corn": {
-                "common": "x3 T1",
-                "common_2": "x2 T1",
-                "common_3": "x2 T1"
+            "Candy Corn (Knife)": {
+                "common": "x2 T1"
             },
-            "Cracks": {
+            "Cracks (Knife)": {
                 "common": "x3 T1"
             },
-            "Stickers": {
-                "common": "x3 T1",
-                "common_2": "x2 T1",
-                "common_3": "x2 T1",
-                "common_4": "x2 T1",
-                "common_5": "x2 T1",
-                "common_6": "x2 T1",
-                "common_7": "x2 T1",
-                "common_8": "x2 T1"
+            "Stickers (Knife)": {
+                "common": "x2 T1"
             },
-            "Wavy": {
+            "Wavy (Knife)": {
                 "common": "x3 T1"
             },
-            "Clownfish": {
+            "Clownfish (Knife)": {
                 "common": "x3 T1"
             },
-            "UFOs": {
+            "UFOs (Knife)": {
                 "common": "x3 T1"
             },
-            "Carved": {
+            "Carved (Knife)": {
                 "common": "x2 T1"
             },
-            "Igloo": {
+            "Igloo (Knife)": {
                 "common": "x2 T1"
             },
-            "Peppermint": {
+            "Peppermint (Knife)": {
                 "common": "x2 T1"
             },
-            "Snowball": {
+            "Snowball (Knife)": {
                 "common": "x2 T1"
             },
-            "Starfish": {
+            "Starfish (Knife)": {
                 "common": "x2 T1"
             },
-            "Strawberries": {
+            "Strawberries (Knife)": {
                 "common": "x2 T1"
             },
-            "Striped": {
+            "Striped (Knife)": {
                 "common": "x2 T1"
             },
-            "Clown": {
+            "Clown (Knife)": {
                 "common": "x1 T1"
             },
-            "Love": {
+            "8Bit": {
                 "common": "x1 T1"
             },
-            "slouse's Clown": {
-                "unknown": "untradable"
+            "Love (Knife)": {
+                "common": "x1 T1"
             },
-            "Blue Flaming": {
-                "unknown": "untradable"
+            "Corrupt": {
+                "unique": "350"
             },
-            "Electric": {
-                "unknown": "untradable"
+            "slouse's Clown (Knife)": {
+                "unique": null
             },
-            "Flaming": {
-                "unknown": "untradable"
+            "Blue Flaming Knife": {
+                "untradable": "untradable"
             },
-            "Green Flaming": {
-                "unknown": "untradable"
+            "Electric Knife": {
+                "untradable": "untradable"
+            },
+            "Flaming Knife": {
+                "untradable": "untradable"
+            },
+            "Green Flaming Knife": {
+                "untradable": "untradable"
             },
             "Knife Wrapper": {
-                "unknown": "untradable"
+                "untradable": "untradable"
             },
-            "Pink Flaming": {
-                "unknown": "untradable"
+            "Pink Flaming Knife": {
+                "untradable": "untradable"
             },
-            "Rainbow Flaming": {
-                "unknown": "untradable"
+            "Rainbow Flaming Knife": {
+                "untradable": "untradable"
             }
         },
         "Пистолеты": {
-            "Traveler's": {
-                "godly_chroma": "5,200"
+            "Traveler's Gun": {
+                "godly": "5,200",
+                "chroma": "150,000"
             },
-            "Vampire's": {
-                "godly_chroma": "1,825"
+            "Vampire's Gun": {
+                "godly": "1,825",
+                "chroma": "29,000"
             },
-            "Rainbow": {
-                "godly_chroma": "420",
-                "rare": "x4 T1"
+            "Rainbow Gun": {
+                "godly": "420"
             },
-            "Flowerwood": {
-                "godly_chroma": "265"
+            "Flowerwood Gun": {
+                "godly": "265"
             },
-            "Swirly": {
-                "godly_chroma": "18"
+            "Swirly Gun": {
+                "godly": "18",
+                "chroma": "35"
             },
-            "C. Traveler's": {
-                "godly_chroma": "150,000"
-            },
-            "C. Vampire's": {
-                "godly_chroma": "29,000"
-            },
-            "Chroma Swirly": {
-                "godly_chroma": "35"
-            },
-            "Latte": {
+            "Latte (Gun)": {
                 "legendary": "140"
             },
-            "Traveler": {
+            "Traveler (Gun)": {
                 "legendary": "50"
             },
-            "Aurora": {
+            "Aurora (Gun)": {
                 "legendary": "45",
                 "rare": "1"
             },
-            "Vampire": {
+            "Vampire (Gun)": {
                 "legendary": "45",
                 "rare": "3"
             },
-            "Arctic": {
+            "Arctic (Gun)": {
                 "legendary": "10"
             },
-            "Ginger": {
+            "Ginger (Gun)": {
                 "legendary": "5",
                 "rare": "x4 T1"
             },
-            "Spectral": {
+            "Spectral (Gun)": {
                 "legendary": "3"
             },
-            "Energized": {
+            "Energized (Gun)": {
                 "legendary": "2"
             },
-            "Ghost": {
+            "Ghost (Gun)": {
                 "legendary": "2"
             },
-            "Cavern": {
+            "Cavern (Gun)": {
                 "legendary": "1"
             },
-            "Chromatic": {
+            "Chromatic (Gun)": {
                 "legendary": "x4 T1"
             },
-            "Frozen": {
+            "Frozen (Gun)": {
                 "legendary": "x4 T1",
                 "uncommon": "3",
                 "common": "x2 T1"
             },
-            "Overseer": {
+            "Overseer (Gun)": {
                 "legendary": "x4 T1"
             },
-            "Tree": {
+            "Tree (Gun)": {
                 "legendary": "x4 T1",
                 "rare": "x2 T1"
             },
-            "Aquarium": {
+            "Aquarium (Gun)": {
                 "legendary": "x3 T1"
             },
-            "Cursed": {
+            "Cursed (Gun)": {
                 "legendary": "x3 T1"
             },
-            "Frostfade": {
+            "Frostfade (Gun)": {
                 "legendary": "x3 T1"
             },
-            "Palms": {
+            "Palms (Gun)": {
                 "legendary": "x3 T1"
             },
-            "Ripper": {
+            "Ripper (Gun)": {
                 "legendary": "x2 T1"
             },
-            "Predator": {
+            "Predator (Gun)": {
                 "legendary": "x4 T1"
             },
-            "Splash": {
+            "Splash (Gun)": {
                 "legendary": "x3 T1"
             },
-            "Starry": {
+            "Starry (Gun)": {
                 "rare": "22"
             },
-            "Watcher": {
+            "Watcher (Gun)": {
                 "rare": "20",
                 "common": "x3 T1"
             },
-            "Magma": {
+            "Magma (Gun)": {
                 "rare": "13"
             },
-            "Silent Night": {
+            "Silent Night (Gun)": {
                 "rare": "12"
             },
-            "Ghastly": {
+            "Ghastly (Gun)": {
                 "rare": "7"
             },
-            "Icicles": {
+            "Icicles (Gun)": {
                 "rare": "3"
             },
-            "Candy Swirl": {
+            "Candy Swirl (Gun)": {
                 "rare": "2"
             },
-            "Toxic": {
+            "Toxic (Gun)": {
                 "rare": "2"
             },
-            "Snakebite": {
+            "Snakebite (Gun)": {
                 "rare": "1"
             },
-            "Gingerbread": {
+            "Gingerbread (Gun)": {
                 "rare": "x4 T1",
-                "uncommon": "3",
-                "uncommon_2": "1",
-                "uncommon_3": "x3 T1",
-                "uncommon_4": "x3 T1"
+                "uncommon": "x3 T1"
             },
-            "Cane": {
-                "rare": "x4 T1",
-                "rare_2": "x3 T1",
+            "Cane (Gun)": {
+                "rare": "x3 T1",
                 "common": "x2 T1"
             },
-            "Molten": {
+            "Molten (Gun)": {
                 "rare": "x2 T1"
             },
-            "Candleflame": {
+            "Candleflame (Gun)": {
                 "rare": "x1 T1"
             },
-            "Wraith": {
+            "Wraith (Gun)": {
                 "rare": "x1 T1"
             },
-            "Frostflame": {
+            "Frostflame (Gun)": {
                 "rare": "x3 T1"
             },
-            "Ghosts": {
+            "Ghosts (Gun)": {
                 "rare": "x3 T1"
             },
-            "Hologram": {
+            "Hologram (Gun)": {
                 "rare": "x3 T1"
             },
-            "Spearmint": {
+            "Spearmint (Gun)": {
                 "rare": "x3 T1"
             },
-            "Xeno": {
+            "Xeno (Gun)": {
                 "rare": "x2 T1"
             },
-            "Floral": {
+            "Floral (Gun)": {
                 "rare": "x2 T1"
             },
-            "Gingercookie": {
+            "Gingercookie (Gun)": {
                 "rare": "x2 T1"
             },
-            "Pop Art": {
+            "Pop Art (Gun)": {
                 "rare": "x2 T1"
             },
-            "Zombified": {
+            "Rainbow (Gun)": {
+                "rare": "x4 T1"
+            },
+            "Zombified (Gun)": {
                 "uncommon": "15"
             },
-            "Wrap": {
+            "Wrap (Gun)": {
                 "uncommon": "12"
             },
-            "Steel": {
+            "Steel (Gun)": {
                 "uncommon": "8"
             },
-            "Gothic": {
+            "Gothic (Gun)": {
                 "uncommon": "7"
             },
-            "Snowman": {
-                "uncommon": "5",
-                "uncommon_2": "x4 T1",
-                "common": "25",
-                "common_2": "x2 T1"
+            "Snowman (Gun)": {
+                "uncommon": "x4 T1",
+                "common": "x2 T1"
             },
-            "Hazard": {
+            "Hazard (Gun)": {
                 "uncommon": "5"
             },
-            "Zombie": {
+            "Zombie (Gun)": {
                 "uncommon": "5"
             },
-            "Lights": {
+            "Lights (Gun)": {
                 "uncommon": "2",
                 "common": "x2 T1"
             },
-            "Mummy": {
-                "uncommon": "2",
-                "uncommon_2": "x3 T1"
+            "Mummy (Gun)": {
+                "uncommon": "x3 T1"
             },
-            "Potion": {
+            "Potion (Gun)": {
                 "uncommon": "2"
             },
-            "Holly": {
+            "Holly (Gun)": {
                 "uncommon": "1"
             },
-            "Wrapped": {
-                "uncommon": "x4 T1",
-                "uncommon_2": "x1 T1",
+            "Wrapped (Gun)": {
+                "uncommon": "x1 T1",
                 "common": "30"
             },
-            "Mistletoe": {
+            "Mistletoe (Gun)": {
                 "uncommon": "x3 T1"
             },
-            "Love": {
+            "Love (Gun)": {
                 "uncommon": "x2 T1"
             },
-            "Canes": {
+            "Canes (Gun)": {
                 "uncommon": "x1 T1"
             },
-            "Cookie": {
+            "Cookie (Gun)": {
                 "uncommon": "x1 T1"
             },
-            "Snowflake": {
-                "uncommon": "x1 T1",
-                "uncommon_2": "x3 T1"
-            },
-            "Carrot": {
+            "Snowflake (Gun)": {
                 "uncommon": "x3 T1"
             },
-            "Clown": {
+            "Carrot (Gun)": {
+                "uncommon": "x3 T1"
+            },
+            "Clown (Gun)": {
                 "uncommon": "x3 T1",
                 "common": "x1 T1"
             },
-            "Painted": {
+            "Painted (Gun)": {
                 "uncommon": "x3 T1"
             },
-            "Sweater": {
-                "uncommon": "x3 T1",
-                "uncommon_2": "x2 T1"
-            },
-            "Wraiths": {
-                "uncommon": "x3 T1"
-            },
-            "Stars": {
-                "uncommon": "x3 T1"
-            },
-            "Soda": {
-                "uncommon": "x3 T1"
-            },
-            "Stockings": {
-                "uncommon": "x3 T1"
-            },
-            "Treats": {
-                "uncommon": "x3 T1"
-            },
-            "Portal": {
+            "Sweater (Gun)": {
                 "uncommon": "x2 T1"
             },
-            "Lava": {
+            "Wraiths (Gun)": {
+                "uncommon": "x3 T1"
+            },
+            "Stars (Gun)": {
+                "uncommon": "x3 T1"
+            },
+            "Soda (Gun)": {
+                "uncommon": "x3 T1"
+            },
+            "Stockings (Gun)": {
+                "uncommon": "x3 T1"
+            },
+            "Treats (Gun)": {
+                "uncommon": "x3 T1"
+            },
+            "Portal (Gun)": {
                 "uncommon": "x2 T1"
             },
-            "Popsicle": {
+            "Lava (Gun)": {
                 "uncommon": "x2 T1"
             },
-            "Adurite": {
+            "Popsicle (Gun)": {
+                "uncommon": "x2 T1"
+            },
+            "Adurite (Gun)": {
                 "uncommon": "x4 T1"
             },
-            "Bluesteel": {
+            "Bluesteel (Gun)": {
                 "uncommon": "x4 T1"
             },
-            "Camo": {
+            "Camo (Gun)": {
                 "uncommon": "x4 T1"
             },
-            "Default": {
-                "common": "untradable"
+            "Default Gun": {
+                "common": null
             },
-            "Snowflakes": {
+            "Snowflakes (Gun)": {
                 "common": "30"
             },
-            "Webbed": {
+            "Webbed (Gun)": {
                 "common": "25"
             },
-            "Apocalypse": {
+            "Apocalypse (Gun)": {
                 "common": "3"
             },
-            "Infected": {
+            "Infected (Gun)": {
                 "common": "3"
             },
-            "Bats": {
-                "common": "1",
-                "common_2": "x3 T1"
-            },
-            "Grave": {
-                "common": "1"
-            },
-            "Haunted": {
-                "common": "1"
-            },
-            "Slime": {
-                "common": "1"
-            },
-            "Frosted": {
-                "common": "x4 T1"
-            },
-            "Elf": {
-                "common": "x4 T1"
-            },
-            "Ornament2": {
-                "common": "x4 T1"
-            },
-            "Santa": {
-                "common": "x4 T1"
-            },
-            "Gifts": {
-                "common": "x2 T1"
-            },
-            "Pine": {
+            "Bats (Gun)": {
                 "common": "x3 T1"
             },
-            "Ornaments": {
+            "Grave (Gun)": {
+                "common": "1"
+            },
+            "Haunted (Gun)": {
+                "common": "1"
+            },
+            "Slime (Gun)": {
+                "common": "1"
+            },
+            "Frosted (Gun)": {
+                "common": "x4 T1"
+            },
+            "Elf (Gun)": {
+                "common": "x4 T1"
+            },
+            "Ornament2 (Gun)": {
+                "common": "x4 T1"
+            },
+            "Santa (Gun)": {
+                "common": "x4 T1"
+            },
+            "Gifts (Gun)": {
+                "common": "x2 T1"
+            },
+            "Pine (Gun)": {
+                "common": "x3 T1"
+            },
+            "Ornaments (Gun)": {
                 "common": "x1 T1"
             },
-            "Cracks": {
+            "Cracks (Gun)": {
                 "common": "x2 T1"
             },
-            "Fragile": {
+            "Fragile (Gun)": {
                 "common": "x2 T1"
             },
-            "Gift Bag": {
+            "Gift Bag (Gun)": {
                 "common": "x2 T1"
             },
-            "Coal": {
-                "common": "x1 T1",
-                "common_2": "x3 T1"
+            "Coal (Gun)": {
+                "common": "x3 T1"
             },
-            "Toy": {
+            "Toy (Gun)": {
                 "common": "x1 T1"
             },
-            "Candied": {
+            "Candied (Gun)": {
                 "common": "x3 T1"
             },
-            "Candy Corn": {
-                "common": "x3 T1",
-                "common_2": "x2 T1",
-                "common_3": "x2 T1"
+            "Candy Corn (Gun)": {
+                "common": "x2 T1"
             },
-            "Carved": {
+            "Carved (Gun)": {
                 "common": "x3 T1"
             },
-            "Darkness": {
+            "Darkness (Gun)": {
                 "common": "x3 T1"
             },
-            "Stickers": {
-                "common": "x3 T1",
-                "common_2": "x2 T1",
-                "common_3": "x2 T1",
-                "common_4": "x2 T1",
-                "common_5": "x2 T1",
-                "common_6": "x2 T1",
-                "common_7": "x2 T1",
-                "common_8": "x2 T1"
+            "Stickers (Gun)": {
+                "common": "x2 T1"
             },
-            "Igloo": {
+            "Igloo (Gun)": {
                 "common": "x3 T1"
             },
-            "Wavy": {
+            "Wavy (Gun)": {
                 "common": "x3 T1"
             },
-            "Clownfish": {
+            "Clownfish (Gun)": {
                 "common": "x2 T1"
             },
-            "Peppermint": {
+            "Peppermint (Gun)": {
                 "common": "x2 T1"
             },
-            "Sandy": {
+            "Sandy (Gun)": {
                 "common": "x2 T1"
             },
-            "Snowball": {
+            "Snowball (Gun)": {
                 "common": "x2 T1"
             },
-            "Starfish": {
+            "Starfish (Gun)": {
                 "common": "x2 T1"
             },
-            "Strawberries": {
+            "Strawberries (Gun)": {
                 "common": "x2 T1"
             },
-            "Striped": {
+            "Striped (Gun)": {
                 "common": "x2 T1"
             },
-            "UFOs": {
+            "UFOs (Gun)": {
                 "common": "x2 T1"
             },
-            "Vines": {
+            "Vines (Gun)": {
                 "common": "x2 T1"
             },
-            "slouse's Clown": {
-                "unknown": "untradable"
+            "slouse's Clown (Gun)": {
+                "unique": null
             },
-            "Fake": {
-                "unknown": "untradable"
+            "Fake Gun": {
+                "untradable": "untradable"
             }
         }
     },
     "Прочее": {
-        "Ever": {
-            "godly_chroma": "3,450"
+        "Evergun": {
+            "godly": "3,450",
+            "chroma": "57,000"
         },
         "Constellation": {
-            "godly_chroma": "2,700"
+            "godly": "2,700",
+            "chroma": "31,000"
         },
         "Evergreen": {
-            "godly_chroma": "2,500"
+            "godly": "2,500",
+            "chroma": "41,000"
         },
         "Alienbeam": {
-            "godly_chroma": "2,100"
+            "godly": "2,100",
+            "chroma": "24,000"
         },
         "Turkey": {
-            "godly_chroma": "2,050"
+            "godly": "2,050"
         },
-        "Ray": {
-            "godly_chroma": "1,950"
+        "Raygun": {
+            "godly": "1,950",
+            "chroma": "14,000"
         },
         "Darkshot": {
-            "godly_chroma": "1,800"
+            "godly": "1,800"
         },
         "Darksword": {
-            "godly_chroma": "1,775"
+            "godly": "1,775"
         },
         "Blossom": {
-            "godly_chroma": "1,370",
+            "godly": "1,370",
             "uncommon": "x2 T1",
             "common": "x4 T1"
         },
         "Sakura": {
-            "godly_chroma": "1,360"
+            "godly": "1,360"
         },
         "Sunrise": {
-            "godly_chroma": "1,075"
+            "godly": "1,075",
+            "chroma": "10,750"
         },
         "Bauble": {
-            "godly_chroma": "675"
+            "godly": "675",
+            "chroma": "34,000"
         },
         "Snowcannon": {
-            "godly_chroma": "675"
+            "godly": "675",
+            "chroma": "7,750"
         },
         "Soul": {
-            "godly_chroma": "655"
+            "godly": "655"
         },
         "Sunset": {
-            "godly_chroma": "650",
+            "godly": "650",
+            "chroma": "7,500",
             "rare": "x3 T1"
         },
         "Spirit": {
-            "godly_chroma": "645"
+            "godly": "645"
         },
         "Flora": {
-            "godly_chroma": "410"
+            "godly": "410"
         },
         "Rainbow": {
-            "godly_chroma": "410",
-            "unknown": "untradable"
+            "godly": "410",
+            "untradable": "untradable"
         },
-        "Xeno": {
-            "godly_chroma": "405",
-            "unknown": "untradable"
+        "Xenoknife": {
+            "godly": "405"
         },
         "Xenoshot": {
-            "godly_chroma": "405"
+            "godly": "405"
         },
         "Bloom": {
-            "godly_chroma": "400",
-            "unknown": "untradable"
+            "godly": "400",
+            "untradable": "untradable"
         },
         "Batwing": {
-            "godly_chroma": "1,000,000",
-            "ancient_evo": "42"
+            "godly": "1,000,000",
+            "ancient": "42"
         },
         "Black Luger": {
-            "godly_chroma": "1,000,000"
+            "godly": "1,000,000"
         },
         "Heart Wand": {
-            "godly_chroma": "340"
+            "godly": "340",
+            "chroma": "4,250"
         },
         "Blizzard": {
-            "godly_chroma": "305",
-            "unknown": "untradable"
+            "godly": "305",
+            "chroma": "5,500",
+            "untradable": "untradable"
         },
         "Snowstorm": {
-            "godly_chroma": "305",
-            "unknown": "untradable"
+            "godly": "305",
+            "chroma": "4,250",
+            "untradable": "untradable"
         },
         "Ocean": {
-            "godly_chroma": "285",
-            "unknown": "untradable"
+            "godly": "285",
+            "untradable": "untradable"
         },
         "Waves": {
-            "godly_chroma": "280",
+            "godly": "280",
             "rare": "x2 T1"
         },
         "Flowerwood": {
-            "godly_chroma": "260",
-            "unknown": "untradable"
+            "godly": "260",
+            "untradable": "untradable"
         },
         "Snow Dagger": {
-            "godly_chroma": "175"
+            "godly": "175",
+            "chroma": "2,350"
         },
-        "Water": {
-            "godly_chroma": "165"
+        "Watergun": {
+            "godly": "165",
+            "chroma": "2,600"
         },
         "Icecream": {
-            "godly_chroma": "155"
+            "godly": "155",
+            "chroma": "1,750"
         },
         "Treat": {
-            "godly_chroma": "155"
+            "godly": "155",
+            "chroma": "1,775"
         },
         "Sweet": {
-            "godly_chroma": "150"
+            "godly": "150",
+            "chroma": "1,725"
         },
         "Borealis": {
-            "godly_chroma": "145"
+            "godly": "145"
         },
         "Australis": {
-            "godly_chroma": "140"
+            "godly": "140"
         },
         "Bat": {
-            "godly_chroma": "120",
-            "unknown": "x2 T1"
+            "godly": "120",
+            "pet": "x2 T1"
         },
         "Beachy": {
-            "godly_chroma": "95"
+            "godly": "95",
+            "chroma": "1,250"
         },
         "Sands": {
-            "godly_chroma": "95"
+            "godly": "95",
+            "chroma": "1,300"
         },
         "Pearlshine": {
-            "godly_chroma": "80"
+            "godly": "80"
         },
         "Candy": {
-            "godly_chroma": "80",
-            "unknown": "untradable"
+            "godly": "80",
+            "untradable": "untradable"
         },
         "Ornament": {
-            "godly_chroma": "80",
+            "godly": "80",
+            "chroma": "1,825",
             "common": "x4 T1"
         },
         "Pearl": {
-            "godly_chroma": "75"
+            "godly": "75"
         },
         "Heartblade": {
-            "godly_chroma": "65"
+            "godly": "65"
         },
         "Phantom": {
-            "godly_chroma": "35",
+            "godly": "35",
             "common": "10",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Red Luger": {
-            "godly_chroma": "35"
+            "godly": "35"
         },
         "Spectre": {
-            "godly_chroma": "35"
+            "godly": "35"
         },
         "Candleflame": {
-            "godly_chroma": "33"
+            "godly": "33",
+            "chroma": "40"
         },
         "Darkbringer": {
-            "godly_chroma": "33"
+            "godly": "33",
+            "chroma": "65"
         },
         "Elderwood Blade": {
-            "godly_chroma": "33"
+            "godly": "33",
+            "chroma": "37"
         },
         "Elderwood Revolver": {
-            "godly_chroma": "33"
+            "godly": "33"
         },
         "Iceblaster": {
-            "godly_chroma": "33"
+            "godly": "33"
         },
         "Makeshift": {
-            "godly_chroma": "33"
+            "godly": "33"
         },
         "Lightbringer": {
-            "godly_chroma": "32"
+            "godly": "32",
+            "chroma": "60"
         },
         "Sugar": {
-            "godly_chroma": "32"
+            "godly": "32"
         },
         "Green Luger": {
-            "godly_chroma": "23"
+            "godly": "23"
         },
         "Amerilaser": {
-            "godly_chroma": "22"
+            "godly": "22"
         },
         "Laser": {
-            "godly_chroma": "22",
+            "godly": "22",
+            "chroma": "40",
             "vintage": "8",
             "rare": "12"
         },
-        "Hallow": {
-            "godly_chroma": "20"
+        "Hallowgun": {
+            "godly": "20"
         },
         "Nightblade": {
-            "godly_chroma": "20"
+            "godly": "20"
         },
         "Shark": {
-            "godly_chroma": "20"
+            "godly": "20",
+            "chroma": "32"
         },
         "Icebeam": {
-            "godly_chroma": "18"
+            "godly": "18"
         },
         "Luger": {
-            "godly_chroma": "18"
+            "godly": "18",
+            "chroma": "50"
         },
         "Plasmabeam": {
-            "godly_chroma": "18"
+            "godly": "18"
         },
         "Battleaxe II": {
-            "godly_chroma": "17"
+            "godly": "17"
         },
         "Blaster": {
-            "godly_chroma": "17"
+            "godly": "17"
         },
         "Ginger Luger": {
-            "godly_chroma": "17"
+            "godly": "17"
         },
         "Pixel": {
-            "godly_chroma": "17"
+            "godly": "17"
         },
         "Gemstone": {
-            "godly_chroma": "15"
+            "godly": "15",
+            "chroma": "32"
         },
         "Iceflake": {
-            "godly_chroma": "15"
+            "godly": "15"
         },
         "Old Glory": {
-            "godly_chroma": "15"
+            "godly": "15"
         },
         "Plasmablade": {
-            "godly_chroma": "15"
+            "godly": "15"
         },
         "Slasher": {
-            "godly_chroma": "15"
+            "godly": "15",
+            "chroma": "32"
         },
         "Vampire's Edge": {
-            "godly_chroma": "15"
+            "godly": "15"
         },
         "Cookiecane": {
-            "godly_chroma": "13"
+            "godly": "13",
+            "chroma": "32"
         },
         "Deathshard": {
-            "godly_chroma": "13"
+            "godly": "13",
+            "chroma": "35"
         },
         "Eternalcane": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Gingerblade": {
-            "godly_chroma": "13"
+            "godly": "13",
+            "chroma": "27"
         },
-        "Jingle": {
-            "godly_chroma": "13",
-            "unknown": "untradable"
+        "Jinglegun": {
+            "godly": "13"
         },
         "Lugercane": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Minty": {
-            "godly_chroma": "13",
-            "unknown": "untradable"
+            "godly": "13",
+            "untradable": "untradable"
         },
         "Nebula": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Virtual": {
-            "godly_chroma": "13"
+            "godly": "13"
         },
         "Battleaxe": {
-            "godly_chroma": "12"
+            "godly": "12"
         },
         "Gingermint": {
-            "godly_chroma": "12"
+            "godly": "12"
         },
         "Swirly Blade": {
-            "godly_chroma": "12"
+            "godly": "12"
         },
         "Chill": {
-            "godly_chroma": "10"
+            "godly": "10"
         },
         "Clockwork": {
-            "godly_chroma": "10"
+            "godly": "10"
         },
         "Fang": {
-            "godly_chroma": "10"
+            "godly": "10",
+            "chroma": "32"
         },
         "Frostsaber": {
-            "godly_chroma": "10"
+            "godly": "10"
         },
         "Heat": {
-            "godly_chroma": "10"
+            "godly": "10",
+            "chroma": "28"
         },
         "Spider": {
-            "godly_chroma": "10",
-            "common": "x2 T1"
+            "godly": "10"
         },
         "Tides": {
-            "godly_chroma": "10"
+            "godly": "10",
+            "chroma": "27"
         },
         "Bio Blade": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Eternal III": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Eternal IV": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Hallow's Blade": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Hallow's Edge": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Handsaw": {
-            "godly_chroma": "8"
+            "godly": "8"
         },
         "Boneblade": {
-            "godly_chroma": "7"
+            "godly": "7",
+            "chroma": "22"
         },
         "Eternal": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Eternal II": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Frostbite": {
-            "godly_chroma": "7",
-            "unknown": "untradable"
+            "godly": "7",
+            "untradable": "untradable"
         },
         "Ghostblade": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Ice Dragon": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Ice Shard": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Prismatic": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Pumpking": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Saw": {
-            "godly_chroma": "7"
+            "godly": "7",
+            "chroma": "23"
         },
         "Xmas": {
-            "godly_chroma": "7"
+            "godly": "7"
         },
         "Eggblade": {
-            "godly_chroma": "5"
+            "godly": "5"
         },
         "Flames": {
-            "godly_chroma": "5"
+            "godly": "5"
         },
         "Snowflake": {
-            "godly_chroma": "5",
+            "godly": "5",
             "rare": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Winter's Edge": {
-            "godly_chroma": "5"
+            "godly": "5"
         },
         "Peppermint": {
-            "godly_chroma": "4"
+            "godly": "4"
         },
         "Cookieblade": {
-            "godly_chroma": "3"
+            "godly": "3"
         },
         "Blue Seer": {
-            "godly_chroma": "3"
+            "godly": "3"
         },
         "Purple Seer": {
-            "godly_chroma": "3"
+            "godly": "3"
         },
         "Red Seer": {
-            "godly_chroma": "3"
+            "godly": "3"
         },
         "Seer": {
-            "godly_chroma": "3"
+            "godly": "3",
+            "chroma": "28"
         },
         "Orange Seer": {
-            "godly_chroma": "2"
+            "godly": "2"
         },
         "Yellow Seer": {
-            "godly_chroma": "2"
+            "godly": "2"
         },
         "Nik's Scythe": {
-            "ancient_evo": "Priceless"
+            "ancient": "Priceless"
         },
         "Gingerscope": {
-            "ancient_evo": "16,250"
+            "ancient": "16,250"
         },
         "Traveler's Axe": {
-            "ancient_evo": "8,100"
+            "ancient": "8,100"
         },
         "Celestial": {
-            "ancient_evo": "2,300",
-            "unknown": "untradable"
+            "ancient": "2,300",
+            "untradable": "untradable"
         },
         "Vampire's Axe": {
-            "ancient_evo": "1,600"
+            "ancient": "1,600"
         },
         "Harvester": {
-            "ancient_evo": "250"
+            "ancient": "250"
         },
         "Icepiercer": {
-            "ancient_evo": "160"
+            "ancient": "160"
         },
         "Icebreaker": {
-            "ancient_evo": "65"
+            "ancient": "65"
         },
         "Elderwood Scythe": {
-            "ancient_evo": "38"
+            "ancient": "38"
         },
         "Swirly Axe": {
-            "ancient_evo": "38"
+            "ancient": "38"
         },
         "Hallowscythe": {
-            "ancient_evo": "30"
+            "ancient": "30"
         },
         "Logchopper": {
-            "ancient_evo": "18"
+            "ancient": "18"
         },
         "Icewing": {
-            "ancient_evo": "13"
+            "ancient": "13"
         },
-        "Chroma Ever": {
-            "godly_chroma": "57,000"
+        "Fire Bat": {
+            "chroma": "3",
+            "pet": "x2 T1"
         },
-        "Chroma Evergreen": {
-            "godly_chroma": "41,000"
+        "Fire Bear": {
+            "chroma": "3",
+            "pet": "x2 T1"
         },
-        "Chroma Bauble": {
-            "godly_chroma": "34,000"
+        "Fire Bunny": {
+            "chroma": "3",
+            "pet": "x2 T1"
         },
-        "C. Constellation": {
-            "godly_chroma": "31,000"
+        "Fire Cat": {
+            "chroma": "3",
+            "pet": "x2 T1"
         },
-        "Chroma Alienbeam": {
-            "godly_chroma": "24,000"
+        "Fire Dog": {
+            "chroma": "3",
+            "pet": "x2 T1"
         },
-        "Chroma Ray": {
-            "godly_chroma": "14,000"
+        "Fire Fox": {
+            "chroma": "3",
+            "pet": "x2 T1"
         },
-        "Chroma Sunrise": {
-            "godly_chroma": "10,750"
-        },
-        "Chroma Snowcannon": {
-            "godly_chroma": "7,750"
-        },
-        "Chroma Sunset": {
-            "godly_chroma": "7,500"
-        },
-        "Chroma Blizzard": {
-            "godly_chroma": "5,500"
-        },
-        "Chroma Snowstorm": {
-            "godly_chroma": "4,250"
-        },
-        "Chroma Heart Wand": {
-            "godly_chroma": "4,250"
-        },
-        "Chroma Water": {
-            "godly_chroma": "2,600"
-        },
-        "Chroma Snow Dagger": {
-            "godly_chroma": "2,350"
-        },
-        "Chroma Ornament": {
-            "godly_chroma": "1,825"
-        },
-        "Chroma Treat": {
-            "godly_chroma": "1,775"
-        },
-        "Chroma Icecream": {
-            "godly_chroma": "1,750"
-        },
-        "Chroma Sweet": {
-            "godly_chroma": "1,725"
-        },
-        "Chroma Sands": {
-            "godly_chroma": "1,300"
-        },
-        "Chroma Beachy": {
-            "godly_chroma": "1,250"
-        },
-        "Chroma Darkbringer": {
-            "godly_chroma": "65"
-        },
-        "Chroma Lightbringer": {
-            "godly_chroma": "60"
-        },
-        "Chroma Luger": {
-            "godly_chroma": "50"
-        },
-        "Chroma Candleflame": {
-            "godly_chroma": "40"
-        },
-        "Chroma Laser": {
-            "godly_chroma": "40"
-        },
-        "C. Elderwood Blade": {
-            "godly_chroma": "37"
-        },
-        "Chroma Deathshard": {
-            "godly_chroma": "35"
-        },
-        "Chroma Cookiecane": {
-            "godly_chroma": "32"
-        },
-        "Chroma Fang": {
-            "godly_chroma": "32"
-        },
-        "Chroma Gemstone": {
-            "godly_chroma": "32"
-        },
-        "Chroma Shark": {
-            "godly_chroma": "32"
-        },
-        "Chroma Slasher": {
-            "godly_chroma": "32"
-        },
-        "Chroma Heat": {
-            "godly_chroma": "28"
-        },
-        "Chroma Seer": {
-            "godly_chroma": "28"
-        },
-        "Chroma Gingerblade": {
-            "godly_chroma": "27"
-        },
-        "Chroma Tides": {
-            "godly_chroma": "27"
-        },
-        "Chroma Saw": {
-            "godly_chroma": "23"
-        },
-        "Chroma Boneblade": {
-            "godly_chroma": "22"
-        },
-        "Chroma Fire Bat": {
-            "godly_chroma": "3"
-        },
-        "Chroma Fire Bear": {
-            "godly_chroma": "3"
-        },
-        "Chroma Fire Bunny": {
-            "godly_chroma": "3"
-        },
-        "Chroma Fire Cat": {
-            "godly_chroma": "3"
-        },
-        "Chroma Fire Dog": {
-            "godly_chroma": "3"
-        },
-        "Chroma Fire Fox": {
-            "godly_chroma": "3"
-        },
-        "Chroma Fire Pig": {
-            "godly_chroma": "3"
+        "Fire Pig": {
+            "chroma": "3",
+            "pet": "x2 T1"
         },
         "Blood": {
             "vintage": "8"
@@ -1379,7 +1270,7 @@
         "Ghost": {
             "vintage": "8",
             "uncommon": "12",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "America": {
             "vintage": "7"
@@ -1403,232 +1294,200 @@
         "Golden": {
             "vintage": "4",
             "legendary": "12",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Splitter": {
             "vintage": "3"
         },
         "Zombie Dog": {
-            "unknown": "750"
+            "pet": "750"
         },
-        "Elf": {
-            "unknown": "625",
-            "unknown_2": "25",
-            "common": "20",
-            "common_2": "x3 T1",
-            "common_3": "x2 T1"
+        "Elf (2019)": {
+            "pet": "625"
         },
         "Blue Pumpkin": {
-            "unknown": "220",
-            "unknown_2": "7",
-            "unknown_3": "1"
+            "pet": "1"
         },
         "Dogey": {
-            "unknown": "150"
+            "pet": "150"
         },
         "Red Pumpkin": {
-            "unknown": "120",
-            "unknown_2": "20",
-            "unknown_3": "17",
-            "unknown_4": "3"
+            "pet": "3"
         },
         "Black Cat": {
-            "unknown": "75"
+            "pet": "75"
         },
         "Green Pumpkin": {
-            "unknown": "60",
-            "unknown_2": "12",
-            "unknown_3": "10",
-            "unknown_4": "3"
+            "pet": "3"
         },
-        "Pumpkin": {
-            "unknown": "55",
-            "unknown_2": "x2 T1",
-            "unknown_3": "x3 T1",
-            "unknown_4": "x2 T1",
-            "unknown_5": "x1 T1",
-            "uncommon": "x3 T1",
-            "common": "12",
-            "common_2": "x1 T1",
-            "unknown_6": "untradable",
-            "unknown_7": "untradable",
-            "unknown_8": "untradable"
+        "Pumpkin (2017)": {
+            "pet": "55"
         },
         "Mr. Reindeer": {
-            "unknown": "55"
+            "pet": "55"
         },
         "Piggy": {
-            "unknown": "55"
+            "pet": "55"
+        },
+        "Elf": {
+            "pet": "25"
         },
         "Mr. Snowman": {
-            "unknown": "20"
+            "pet": "20"
         },
         "Skully": {
-            "unknown": "15"
+            "pet": "15"
         },
         "<3": {
-            "unknown": "7"
+            "pet": "7"
         },
         "Shadow Pumpkin": {
-            "unknown": "5"
+            "pet": "5"
         },
         "Nobledragon": {
-            "unknown": "5"
+            "pet": "5"
         },
         "Snowbear": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Mechbug": {
-            "unknown": "3"
+            "pet": "3"
         },
         "UFO": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Chilly": {
-            "unknown": "3",
-            "unknown_2": "untradable"
+            "pet": "3",
+            "untradable": "untradable"
         },
         "Eyeball": {
-            "unknown": "3",
+            "pet": "3",
             "common": "x2 T1"
         },
         "Fairy": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Jetstream": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Overseer Eye": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Pengy": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Purple Pumpkin": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Reindeer": {
-            "unknown": "3",
-            "common": "x1 T1",
-            "common_2": "x2 T1"
+            "pet": "3",
+            "common": "x2 T1"
         },
         "Rudolph": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Seahorsey": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Tankie": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Vampire Bat": {
-            "unknown": "3"
+            "pet": "3"
         },
         "Lil' Alien": {
-            "unknown": "1"
+            "pet": "1"
         },
         "Badger": {
-            "unknown": "1"
+            "pet": "1"
         },
         "Carrot Bunny": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Deathspeaker": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Electro": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Frostbird": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Ice Phoenix": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Icey": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Phoenix": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Sammy": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Skelly": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Steambird": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Traveller": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
-        "Fire Bat": {
-            "unknown": "x2 T1"
-        },
-        "Fire Bear": {
-            "unknown": "x2 T1"
-        },
-        "Fire Bunny": {
-            "unknown": "x2 T1"
-        },
-        "Fire Cat": {
-            "unknown": "x2 T1"
-        },
-        "Fire Dog": {
-            "unknown": "x2 T1"
-        },
-        "Fire Fox": {
-            "unknown": "x2 T1"
-        },
-        "Fire Pig": {
-            "unknown": "x2 T1"
+        "Pumpkin (2018)": {
+            "pet": "x2 T1"
         },
         "Scarecrow": {
-            "unknown": "x1 T1"
+            "pet": "x1 T1"
         },
         "Teddy": {
-            "unknown": "x1 T1"
+            "pet": "x1 T1"
+        },
+        "Pumpkin (2019)": {
+            "pet": "x3 T1",
+            "common": "12"
         },
         "Santa Dog": {
-            "unknown": "x1 T1"
+            "pet": "x1 T1"
         },
         "Elitey": {
-            "unknown": "x1 T1"
+            "pet": "x1 T1"
         },
         "Bear": {
-            "unknown": "x3 T1"
+            "pet": "x3 T1"
         },
         "Fox": {
-            "unknown": "x2 T1"
+            "pet": "x2 T1"
         },
         "Pig": {
-            "unknown": "x2 T1"
+            "pet": "x2 T1"
+        },
+        "Pumpkin (2020)": {
+            "pet": "x2 T1"
         },
         "Cat": {
-            "unknown": "x1 T1",
+            "pet": "x1 T1",
             "common": "x1 T1"
         },
         "Dog": {
-            "unknown": "x1 T1"
+            "pet": "x1 T1"
         },
-        "Santa": {
-            "unknown": "untradable",
-            "common": "x1 T1",
-            "common_2": "x3 T1",
-            "common_3": "x3 T1"
+        "Pumpkin (2021)": {
+            "pet": "x1 T1"
+        },
+        "Santa (2019)": {
+            "pet": "untradable"
         },
         "Bunny": {
-            "unknown": "untradable",
+            "pet": "untradable",
             "common": "x4 T1"
         },
         "Snowman": {
-            "unknown": "untradable",
-            "uncommon": "x3 T1",
-            "uncommon_2": "x2 T1"
+            "pet": "untradable",
+            "untradable": "untradable"
         },
         "Ghosty": {
-            "unknown": "untradable",
+            "pet": "untradable",
             "common": "3"
         },
         "Beach": {
@@ -1648,7 +1507,7 @@
         },
         "Nightsky": {
             "legendary": "5",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Bunnies": {
             "legendary": "4"
@@ -1722,7 +1581,7 @@
         },
         "Fade": {
             "legendary": "x4 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Fusion": {
             "legendary": "x4 T1"
@@ -1735,14 +1594,13 @@
         },
         "Elite": {
             "legendary": "x3 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Dungeon": {
             "rare": "140"
         },
-        "Dark": {
-            "rare": "70",
-            "rare_2": "1"
+        "Darkknife": {
+            "rare": "70"
         },
         "Zombified": {
             "rare": "30"
@@ -1752,7 +1610,7 @@
         },
         "Snowflakes": {
             "rare": "12",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Ghostfire": {
             "rare": "10"
@@ -1768,8 +1626,7 @@
         },
         "Bats": {
             "rare": "2",
-            "common": "3",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Green Marble": {
             "rare": "2"
@@ -1777,17 +1634,19 @@
         "Orange Marble": {
             "rare": "2"
         },
+        "Darkgun": {
+            "rare": "1"
+        },
         "Gingerbread": {
             "rare": "1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Monster": {
             "rare": "1",
             "uncommon": "x3 T1"
         },
         "Mummy": {
-            "rare": "x4 T1",
-            "uncommon": "20"
+            "rare": "x4 T1"
         },
         "Nuke": {
             "rare": "x3 T1"
@@ -1795,7 +1654,7 @@
         "Snowy": {
             "rare": "x3 T1",
             "uncommon": "x4 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Ice Camo": {
             "rare": "x2 T1"
@@ -1808,11 +1667,10 @@
         },
         "Heart": {
             "rare": "x1 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Neon": {
-            "rare": "x1 T1",
-            "rare_2": "x2 T1",
+            "rare": "x2 T1",
             "common": "x3 T1"
         },
         "Damp": {
@@ -1827,15 +1685,11 @@
         "Storm": {
             "rare": "x1 T1"
         },
-        "Tree": {
-            "rare": "x3 T1",
-            "uncommon": "2",
-            "uncommon_2": "x3 T1",
-            "unknown": "untradable"
+        "Tree (2023)": {
+            "rare": "x3 T1"
         },
         "Bio": {
-            "rare": "x3 T1",
-            "uncommon": "x4 T1"
+            "rare": "x3 T1"
         },
         "Curse": {
             "rare": "x3 T1"
@@ -1857,7 +1711,7 @@
         },
         "Snowglobe": {
             "rare": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Heartbreak": {
             "rare": "x2 T1"
@@ -1912,7 +1766,7 @@
         },
         "Musical": {
             "rare": "x4 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Nightfire": {
             "rare": "x4 T1"
@@ -1944,21 +1798,22 @@
         },
         "Brains": {
             "uncommon": "135",
-            "uncommon_2": "x3 T1",
             "common": "x4 T1"
         },
         "Branches": {
             "uncommon": "50"
         },
+        "Mummy (2017)": {
+            "uncommon": "20"
+        },
         "Void": {
             "uncommon": "12",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Zombie": {
             "uncommon": "7",
-            "uncommon_2": "3",
             "common": "10",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Lantern": {
             "uncommon": "3"
@@ -1967,8 +1822,14 @@
             "uncommon": "3",
             "common": "x2 T1"
         },
-        "Potion": {
+        "Zombie (2023)": {
             "uncommon": "3"
+        },
+        "Potion (2017)": {
+            "uncommon": "3"
+        },
+        "Tree (2021)": {
+            "uncommon": "2"
         },
         "Meltdown": {
             "uncommon": "2"
@@ -1980,12 +1841,11 @@
             "uncommon": "1"
         },
         "Moons": {
-            "uncommon": "1",
-            "uncommon_2": "x3 T1"
+            "uncommon": "1"
         },
         "Vampire": {
             "uncommon": "1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Wolf": {
             "uncommon": "1"
@@ -2015,11 +1875,13 @@
             "uncommon": "x1 T1"
         },
         "Melon": {
-            "uncommon": "x1 T1",
-            "uncommon_2": "x4 T1"
+            "uncommon": "x4 T1"
         },
         "Frosty": {
             "uncommon": "x1 T1"
+        },
+        "Brains (2022)": {
+            "uncommon": "x3 T1"
         },
         "Carrot": {
             "uncommon": "x3 T1",
@@ -2031,10 +1893,16 @@
         "Floatie": {
             "uncommon": "x3 T1"
         },
+        "Moons (2024)": {
+            "uncommon": "x3 T1"
+        },
         "Witchbrew": {
             "uncommon": "x3 T1"
         },
         "Sweater": {
+            "uncommon": "x3 T1"
+        },
+        "Tree (2017)": {
             "uncommon": "x3 T1"
         },
         "Checkers": {
@@ -2054,7 +1922,7 @@
         },
         "Glowy": {
             "uncommon": "x3 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Meadow": {
             "uncommon": "x3 T1"
@@ -2071,11 +1939,17 @@
         "Popsicle": {
             "uncommon": "x3 T1"
         },
+        "Pumpkin (2025)": {
+            "uncommon": "x3 T1"
+        },
         "Floral": {
             "uncommon": "x3 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Neopolitan": {
+            "uncommon": "x3 T1"
+        },
+        "Snowman (2023)": {
             "uncommon": "x3 T1"
         },
         "Turtles": {
@@ -2083,23 +1957,23 @@
         },
         "Ghostly": {
             "uncommon": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Donut": {
             "uncommon": "x2 T1"
         },
         "Abduction": {
             "uncommon": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Jellyfish": {
             "uncommon": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Leaves": {
             "uncommon": "x2 T1",
             "common": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Ornaments": {
             "uncommon": "x2 T1"
@@ -2112,12 +1986,15 @@
         },
         "Retro": {
             "uncommon": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Snowman (2024)": {
+            "uncommon": "x2 T1"
         },
         "Starry": {
             "uncommon": "x2 T1",
             "common": "5",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Turtle": {
             "uncommon": "x2 T1"
@@ -2130,9 +2007,12 @@
         },
         "Doge": {
             "uncommon": "x4 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Sketch": {
+            "uncommon": "x4 T1"
+        },
+        "Biogun": {
             "uncommon": "x4 T1"
         },
         "Blue": {
@@ -2219,11 +2099,14 @@
         "Sparkle9": {
             "common": "30"
         },
-        "CandyCorn": {
+        "CandyCorn (2017)": {
             "common": "25"
         },
         "Ecto": {
             "common": "25"
+        },
+        "Elf (2018)": {
+            "common": "20"
         },
         "Slimy": {
             "common": "20"
@@ -2240,7 +2123,7 @@
         "RIP": {
             "common": "17"
         },
-        "Candy Corn": {
+        "Candy Corn (2019)": {
             "common": "12"
         },
         "Prism": {
@@ -2288,6 +2171,9 @@
         "Sub": {
             "common": "4"
         },
+        "Bats (2020)": {
+            "common": "3"
+        },
         "Sparkle1": {
             "common": "3"
         },
@@ -2309,9 +2195,6 @@
         "Slashed": {
             "common": "1"
         },
-        "2015": {
-            "common": "x4 T1"
-        },
         "Choco": {
             "common": "x4 T1"
         },
@@ -2323,8 +2206,7 @@
         },
         "Hearts": {
             "common": "x4 T1",
-            "common_2": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Ornament1": {
             "common": "x4 T1"
@@ -2371,7 +2253,7 @@
         "Moon": {
             "common": "x3 T1"
         },
-        "Love": {
+        "Love (2023)": {
             "common": "x3 T1"
         },
         "Scarf": {
@@ -2386,12 +2268,17 @@
         "Aliens": {
             "common": "x1 T1"
         },
-        "Ghosts": {
+        "Ghosts (2023)": {
             "common": "x1 T1",
-            "common_2": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Pumpkin (2023)": {
+            "common": "x1 T1"
         },
         "Ribbon": {
+            "common": "x1 T1"
+        },
+        "Santa (2023)": {
             "common": "x1 T1"
         },
         "Penguin": {
@@ -2399,13 +2286,26 @@
         },
         "Candle": {
             "common": "x3 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Coal": {
             "common": "x3 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Elf (2017)": {
+            "common": "x3 T1"
         },
         "Present": {
+            "common": "x3 T1"
+        },
+        "Present (2023)": {
+            "common": "x3 T1"
+        },
+        "Santa": {
+            "common": "x3 T1",
+            "untradable": "untradable"
+        },
+        "Santa (2018)": {
             "common": "x3 T1"
         },
         "Candles": {
@@ -2413,7 +2313,7 @@
         },
         "Carrots": {
             "common": "x3 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Cats": {
             "common": "x3 T1"
@@ -2421,18 +2321,19 @@
         "Chick": {
             "common": "x3 T1"
         },
-        "Gifts": {
-            "common": "x3 T1",
-            "unknown": "untradable"
+        "Gifts (2024)": {
+            "common": "x3 T1"
         },
-        "Haunted": {
-            "common": "x3 T1",
-            "common_2": "x2 T1"
+        "Haunted (2025)": {
+            "common": "x3 T1"
         },
         "Hot Chocolate": {
             "common": "x3 T1"
         },
         "Giftwrap": {
+            "common": "x2 T1"
+        },
+        "Haunted": {
             "common": "x2 T1"
         },
         "Balloons": {
@@ -2446,7 +2347,7 @@
         },
         "Coconut": {
             "common": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Dolphins": {
             "common": "x2 T1"
@@ -2454,7 +2355,16 @@
         "Duckies": {
             "common": "x2 T1"
         },
+        "Elf (2023)": {
+            "common": "x2 T1"
+        },
         "Fall": {
+            "common": "x2 T1"
+        },
+        "Ghosts (2024)": {
+            "common": "x2 T1"
+        },
+        "Hearts (2026)": {
             "common": "x2 T1"
         },
         "Plaid": {
@@ -2468,11 +2378,17 @@
         },
         "Snowfall": {
             "common": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Spider (2023)": {
+            "common": "x2 T1"
         },
         "Stickers": {
             "common": "x2 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Stockings (2024)": {
+            "common": "x2 T1"
         },
         "Tourist": {
             "common": "x2 T1"
@@ -2482,9 +2398,6 @@
         },
         "Xbox": {
             "common": "x2 T1"
-        },
-        "8Bit": {
-            "common": "x1 T1"
         },
         "Aqua": {
             "common": "x1 T1"
@@ -2542,7 +2455,7 @@
         },
         "Ice": {
             "common": "x1 T1",
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Infiltrator": {
             "common": "x1 T1"
@@ -2608,1088 +2521,1177 @@
             "common": "x1 T1"
         },
         "Chroma Ever Set": {
-            "unknown": "98,000"
+            "set": "98,000"
         },
         "Chroma Alien Set": {
-            "unknown": "38,000"
+            "set": "38,000"
         },
         "Chroma Bauble Set": {
-            "unknown": "35,825"
+            "set": "35,825"
         },
         "Chroma Sun Set": {
-            "unknown": "18,250"
+            "set": "18,250"
         },
         "Chroma Snow Set": {
-            "unknown": "10,100"
+            "set": "10,100"
         },
         "Chroma Blizzard Set": {
-            "unknown": "9,750"
+            "set": "9,750"
         },
         "Chroma Sweet Set": {
-            "unknown": "3,500"
+            "set": "3,500"
         },
         "Chroma Beach Set": {
-            "unknown": "2,550"
+            "set": "2,550"
         },
         "Chroma Bringer Set": {
-            "unknown": "125"
+            "set": "125"
         },
         "Chroma Slasher Set": {
-            "unknown": "72"
+            "set": "72"
         },
         "Chroma Pet Set": {
-            "unknown": "21"
+            "set": "21"
         },
         "Traveler's Set": {
-            "unknown": "13,300"
+            "set": "13,300"
         },
         "Ever Set": {
-            "unknown": "5,950"
+            "set": "5,950"
         },
         "Celestial Set": {
-            "unknown": "5,000"
+            "set": "5,000"
         },
         "Alien Set": {
-            "unknown": "4,050"
+            "set": "4,050"
         },
         "Dark Set": {
-            "unknown": "3,575",
-            "unknown_2": "71"
+            "set": "3,575"
         },
         "Vampire's Set": {
-            "unknown": "3,425"
+            "set": "3,425"
         },
         "Sakura Set": {
-            "unknown": "2,730"
+            "set": "2,730"
         },
         "Sun Set": {
-            "unknown": "1,725"
+            "set": "1,725"
         },
         "Soul Set": {
-            "unknown": "1,300"
+            "set": "1,300"
         },
         "Snow Set": {
-            "unknown": "850"
+            "set": "850"
         },
         "Rainbow Set": {
-            "unknown": "830"
+            "set": "830"
         },
         "Bloom Set": {
-            "unknown": "810"
+            "set": "810"
         },
         "Xeno Set": {
-            "unknown": "810"
+            "set": "810"
         },
         "Bauble Set": {
-            "unknown": "755"
+            "set": "755"
         },
         "Blizzard Set": {
-            "unknown": "610"
+            "set": "610"
         },
         "Ocean Set": {
-            "unknown": "565"
+            "set": "565"
         },
         "Flowerwood Set": {
-            "unknown": "525"
+            "set": "525"
         },
         "Bow Set": {
-            "unknown": "410"
+            "set": "410"
         },
         "Corrupt Set": {
-            "unknown": "368"
+            "set": "368"
         },
         "Sweet Set": {
-            "unknown": "305"
+            "set": "305"
         },
         "Borealis Set": {
-            "unknown": "285"
+            "set": "285"
         },
         "Full Ice Set": {
-            "unknown": "258"
+            "set": "258"
         },
         "Beach Set": {
-            "unknown": "190"
+            "set": "190"
         },
         "Pearl Set": {
-            "unknown": "155"
+            "set": "155"
         },
         "Bat Set": {
-            "unknown": "153"
+            "set": "153"
         },
         "Candy Set": {
-            "unknown": "112"
+            "set": "112"
         },
         "Full Elderwood Set": {
-            "unknown": "104"
+            "set": "104"
         },
         "Ice Set": {
-            "unknown": "98"
+            "set": "98"
         },
         "Elderwood Set": {
-            "unknown": "71"
+            "set": "71"
         },
         "Spectre Set": {
-            "unknown": "70"
+            "set": "70"
         },
         "Full Swirly Set": {
-            "unknown": "68"
+            "set": "68"
         },
         "Bringer Set": {
-            "unknown": "65"
+            "set": "65"
         },
         "Swirly Set": {
-            "unknown": "56"
+            "set": "56"
         },
         "Hallow Set": {
-            "unknown": "50"
+            "set": "50"
         },
         "Old Glory Set": {
-            "unknown": "37"
+            "set": "37"
         },
         "Slasher Set": {
-            "unknown": "37"
+            "set": "37"
         },
         "Iceflake Set": {
-            "unknown": "33"
+            "set": "33"
         },
         "Plasma Set": {
-            "unknown": "33"
+            "set": "33"
         },
         "Logchopper Set": {
-            "unknown": "31"
+            "set": "31"
         },
-        "Ginger Set": {
-            "unknown": "30"
+        "Ginger Set (Godly)": {
+            "set": "30"
         },
         "Virtual Set": {
-            "unknown": "30"
+            "set": "30"
         },
         "Eternalcane Set": {
-            "unknown": "26"
+            "set": "26"
         },
         "Cookie Set": {
-            "unknown": "25"
+            "set": "25"
         },
         "Pumpkin Set": {
-            "unknown": "403",
-            "unknown_2": "39",
-            "unknown_3": "32",
-            "unknown_4": "7"
+            "set": "403"
         },
         "Latte Set": {
-            "unknown": "280"
+            "set": "280"
         },
         "Bats Set": {
-            "unknown": "241"
+            "set": "241"
         },
         "Zombified Set": {
-            "unknown": "135"
+            "set": "135"
         },
         "Gingerbread Set": {
-            "unknown": "86",
-            "unknown_2": "13"
+            "set": "13"
+        },
+        "Dark Set (Rare)": {
+            "set": "71"
         },
         "Silent Night Set": {
-            "unknown": "62"
+            "set": "62"
         },
         "Spectral Set": {
-            "unknown": "53"
+            "set": "53"
         },
         "Traveler Set": {
-            "unknown": "53"
+            "set": "53"
         },
-        "Aurora Set": {
-            "unknown": "48",
-            "unknown_2": "8"
+        "Aurora Set (Legend.)": {
+            "set": "48"
         },
-        "Vampire Set": {
-            "unknown": "48",
-            "unknown_2": "4"
+        "Vampire Set (Legend.)": {
+            "set": "48"
+        },
+        "Pumpkin Set (2020)": {
+            "set": "39"
+        },
+        "Pumpkin Set (2021)": {
+            "set": "32"
         },
         "Wrap Set": {
-            "unknown": "24"
+            "set": "24"
+        },
+        "Aurora Set (Rare)": {
+            "set": "8"
         },
         "Cavern Set": {
-            "unknown": "8"
+            "set": "8"
         },
         "Toxic Set": {
-            "unknown": "7"
+            "set": "7"
         },
         "Ghost Set": {
-            "unknown": "7"
+            "set": "7"
+        },
+        "Pumpkin Set (2019)": {
+            "set": "7"
         },
         "Icedriller Set": {
-            "unknown": "6"
+            "set": "6"
         },
         "Full Elite Set": {
-            "unknown": "6"
+            "set": "6"
         },
-        "Santa's Set": {
-            "unknown": "6"
+        "Santa's Set (Legend.)": {
+            "set": "6"
         },
         "Scratch Set": {
-            "unknown": "6"
+            "set": "6"
         },
         "Zombie Set": {
-            "unknown": "6"
+            "set": "6"
         },
         "Eye Set": {
-            "unknown": "6"
+            "set": "6"
         },
         "Snakebite Set": {
-            "unknown": "4"
+            "set": "4"
+        },
+        "Vampire Set (Rare)": {
+            "set": "4"
         },
         "Frozen Set": {
-            "unknown": "4"
+            "set": "4"
         },
         "Marble Set": {
-            "unknown": "4"
+            "set": "4"
         },
         "Potion Set": {
-            "unknown": "4"
+            "set": "4"
         },
         "Candy Swirl Set": {
-            "unknown": "3"
+            "set": "3"
         },
         "Lights Set": {
-            "unknown": "3"
+            "set": "3"
         },
         "Mummy Set": {
-            "unknown": "3"
+            "set": "3"
         },
         "Grave Set": {
-            "unknown": "2"
+            "set": "2"
         },
         "Haunted Set": {
-            "unknown": "2"
+            "set": "2"
         },
         "Slime Set": {
-            "unknown": "2"
+            "set": "2"
         },
         "Full Bringer Set": {
-            "unknown": "190"
+            "set": "190"
         },
         "Full Luger Set": {
-            "unknown": "156"
+            "set": "156"
         },
         "Sparkle Set": {
-            "unknown": "127"
+            "set": "127"
         },
         "Luger Set": {
-            "unknown": "106"
+            "set": "106"
         },
         "Retro Set": {
-            "unknown": "85"
+            "set": "85"
         },
         "Vintage Set": {
-            "unknown": "59"
+            "set": "59"
         },
         "Full Colored Seer Set": {
-            "unknown": "44"
+            "set": "44"
         },
         "Eternal Set": {
-            "unknown": "43"
+            "set": "43"
         },
         "Skate Set": {
-            "unknown": "23"
+            "set": "23"
         },
         "Pals Set": {
-            "unknown": "20"
+            "set": "20"
         },
         "Colored Seer Set": {
-            "unknown": "16"
+            "set": "16"
         },
         "Wrapping Paper Set": {
-            "unknown": "14"
+            "set": "14"
         },
-        "Small Set": {
-            "unknown": "1,270",
-            "unknown_2": "1,235"
+        "Small Set (107)": {
+            "set": "1,270"
+        },
+        "Small Set (103)": {
+            "set": "1,235"
         },
         "Full Chroma Set": {
-            "unknown": "555"
+            "set": "555"
         },
         "Chroma Weapon Set": {
-            "unknown": "535"
-        },
-        "Corrupt": {
-            "unknown": "350"
+            "set": "535"
         },
         "Sharkseeker": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Dartbringer": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Candy": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Hallow": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Sugar": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Elderwood": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Minty": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Logchopper": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Vamp's Edge": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Iceblaster": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Icebreaker": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Harvester": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Swirly": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Icecrusher": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Icepiercer": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Traveler's": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Gingerscythe": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Gingerscope": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Vampire's Axe": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Constellation": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Celestial": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Synthwave": {
-            "unknown": "untradable"
+            "unique": null
         },
-        "Gold Ray": {
-            "unknown": "untradable"
+        "Gold Raygun": {
+            "unique": null
         },
         "Gold Snow Dagger": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Gold Snowcannon": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Candy": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Hallow": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Sugar": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Elderwood": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Minty": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Logchopper": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Vamp's Edge": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Iceblaster": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Icebreaker": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Harvester": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Swirly": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Icecrusher": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Icepiercer": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Traveler's": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Gingerscythe": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Gingerscope": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Vampire's Axe": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Constellation": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Celestial": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Synthwave": {
-            "unknown": "untradable"
+            "unique": null
         },
-        "Silver Ray": {
-            "unknown": "untradable"
+        "Silver Raygun": {
+            "unique": null
         },
         "Silver Snow Dagger": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Silver Snowcannon": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Candy": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Hallow": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Sugar": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Elderwood": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Minty": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Logchopper": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Vamp's Edge": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Iceblaster": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Icebreaker": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Harvester": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Swirly": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Icecrusher": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Icepiercer": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Traveler's": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Gingerscythe": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Gingerscope": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Vampire's Axe": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Constellation": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Celestial": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Synthwave": {
-            "unknown": "untradable"
+            "unique": null
         },
-        "Bronze Ray": {
-            "unknown": "untradable"
+        "Bronze Raygun": {
+            "unique": null
         },
         "Bronze Snow Dagger": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Bronze Snowcannon": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Candy": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Red Hallow": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Sugar": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Elderwood": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Minty": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Logchopper": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Vamp's Edge": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Red Iceblaster": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Red Icebreaker": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Harvester": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Swirly": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Red Icecrusher": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Red Icepiercer": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Red Traveler's": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Gingerscythe": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Gingerscope": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Purple Vampire's Axe": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Red Constellation": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Red Celestial": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Blue Synthwave": {
-            "unknown": "untradable"
+            "unique": null
         },
-        "Red Ray": {
-            "unknown": "untradable"
+        "Red Raygun": {
+            "unique": null
         },
         "Red Snow Dagger": {
-            "unknown": "untradable"
+            "unique": null
         },
         "Red Snowcannon": {
-            "unknown": "untradable"
+            "unique": null
         },
-        "Synthwave": {
-            "ancient_evo": "untradable",
-            "unknown": "untradable"
+        "Synthwave (Var. 4)": {
+            "evo": null
         },
-        "Gingerscythe": {
-            "ancient_evo": "untradable"
+        "Synthwave (Var. 3)": {
+            "evo": null
         },
-        "Icecrusher": {
-            "ancient_evo": "untradable"
+        "Synthwave (Var. 2)": {
+            "evo": null
         },
-        "Reaver": {
-            "ancient_evo": "untradable",
-            "unknown": "untradable"
+        "Synthwave (Var. 1)": {
+            "evo": null
+        },
+        "Gingerscythe (Var. 4)": {
+            "evo": null
+        },
+        "Gingerscythe (Var. 3)": {
+            "evo": null
+        },
+        "Gingerscythe (Var. 2)": {
+            "evo": null
+        },
+        "Gingerscythe (Var. 1)": {
+            "evo": null
+        },
+        "Icecrusher (Variant 4)": {
+            "evo": null
+        },
+        "Icecrusher (Variant 3)": {
+            "evo": null
+        },
+        "Icecrusher (Variant 2)": {
+            "evo": null
+        },
+        "Icecrusher (Variant 1)": {
+            "evo": null
+        },
+        "Reaver (Variant 4)": {
+            "evo": null
+        },
+        "Reaver (Variant 3)": {
+            "evo": null
+        },
+        "Reaver (Variant 2)": {
+            "evo": null
+        },
+        "Reaver (Variant 1)": {
+            "evo": null
         },
         "Mystery Key": {
-            "unknown": "1"
+            "misc": "1"
         },
         "Blue Papers": {
-            "unknown": "2"
+            "misc": "2"
         },
         "Box of Fertilizer": {
-            "unknown": "2"
+            "misc": "2"
         },
         "Gold Papers": {
-            "unknown": "2"
+            "misc": "2"
         },
         "Green Papers": {
-            "unknown": "2"
+            "misc": "2"
         },
         "Purple Papers": {
-            "unknown": "2"
+            "misc": "2"
         },
         "Red Papers": {
-            "unknown": "2"
+            "misc": "2"
         },
         "Ultra Wrap": {
-            "unknown": "2"
+            "misc": "2"
         },
         "Gifts 2015": {
-            "unknown": "x2 T1"
+            "misc": "x2 T1"
         },
         "Snowflake Key": {
-            "unknown": "x2 T1"
+            "misc": "x2 T1"
         },
         "Skeleton Key": {
-            "unknown": "5"
+            "misc": "5"
         },
-        "Candies": {
-            "unknown": "x2 T1",
-            "unknown_2": "x1 T1",
-            "unknown_3": "untradable",
-            "unknown_4": "untradable"
+        "Candies (2016)": {
+            "misc": "x2 T1"
+        },
+        "Candies (2017)": {
+            "misc": "x1 T1"
         },
         "Aquatic": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Arctic": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Aurora": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Aurora Lights": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
-        "Bat Swarm": {
-            "unknown": "untradable"
+        "Bat Swarm (2024)": {
+            "untradable": "untradable"
         },
         "Batswarm": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Bitsplosion": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Bokeh": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Bubbly": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Candies": {
+            "untradable": "untradable"
+        },
+        "Candies (2023)": {
+            "untradable": "untradable"
         },
         "Candies 2022": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Candy Cane Effect": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Cat Eyes": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Christmas Glow": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Common Ornament": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Confetti": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Cursed": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Darkfire": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Darkswirl": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Dual Wield": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Easter Glow": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Eliteify": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Ethereal": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Fireworks": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Flamingo": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Flow": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Flowers": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Frost": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Frostfire": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Gearstorm": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Ghostify": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Ghosts": {
+            "untradable": "untradable"
+        },
+        "Gifts": {
+            "untradable": "untradable"
         },
         "Gingerbread Effect": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Glisten": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Hallow's Blaze": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Heartify": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Heatwave": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Ice Magic": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Jingle": {
+            "untradable": "untradable"
         },
         "Knifeception": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Legendary Ornament": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Lights": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Matrix": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Monify": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Nightlife": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Northern Lights": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Petals": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Pixie Dust": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Plasma": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Poison": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Pumpkin": {
+            "untradable": "untradable"
+        },
+        "Pumpkin (2022)": {
+            "untradable": "untradable"
         },
         "Radioactive": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Rainbows": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Rare Ornament": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Snowballs": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Snowflakes (2017)": {
+            "untradable": "untradable"
         },
         "Stars": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Strawberries": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Sunbeams": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Swirls": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Synthwave": {
+            "untradable": "untradable"
         },
         "Toxic": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Traveler's Flame": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Treats": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "UFOs": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Uncommon Ornament": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Vampiric": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Versus": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Wraith": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Wraithfire": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Xeno": {
+            "untradable": "untradable"
         },
         "Blue Candy Cane": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Blue Candy Cane '18": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Blue Sparkletime": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Bluesteel": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Boombastic": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Boombox": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Camo": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Candy Cane": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Candy Cane '18": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Default Radio": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Diamond": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Dubstep": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Elderwood": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Flaming": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Green Candy Cane": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Green Sparkletime": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Hallowradio": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Iceplayer": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Jack-o-Radio": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Omega": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Overseer": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Pink Sparkletime": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Reaver": {
+            "untradable": "untradable"
         },
         "Red Sparkletime": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Swirly Radio": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Tree": {
+            "untradable": "untradable"
         },
         "Alien Plush": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Beach Ball": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Bell": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "BooSign": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Bubble Blower": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Bunny Toy": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Candle (2025)": {
+            "untradable": "untradable"
         },
         "Candy Bucket": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Candy Emote": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Chocolate Milk": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Cookie": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Dab": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Egg Toy": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Egg Toy '24": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Egg Toy '25": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Firefly Jar": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Flamingo (Toy)": {
+            "untradable": "untradable"
         },
         "Floss": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "GG Sign": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Gravestone": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Headless": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Ice Cream": {
-            "unknown": "untradable"
+            "untradable": "untradable"
+        },
+        "Ice Cream (2025)": {
+            "untradable": "untradable"
         },
         "Key Toy": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Latte": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Ninja Rest": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Pie": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Pizza": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Prank Bomb": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Pumpkin Toy": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Rare Egg Toy": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Rare Egg Toy '25": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "RC Car": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Reaver Sign": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Sand Bucket": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Santa Plushie": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Sit": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Snowball": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Spellbook": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Spray Paint": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Survivor Sign": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Teddy Bear": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Toy Candy": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Toy Candy 2": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Toy Candy 3": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Toy Token": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Treat Bucket": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Velvet Cake": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Villager's Lantern": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Volleyball": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Water Balloon": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Zen": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Zombie Friend": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Zombie Sign": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Decoy": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Footsteps": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Haste": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Ninja": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Sleight": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Sprint": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "Trap": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         },
         "X-Ray": {
-            "unknown": "untradable"
+            "untradable": "untradable"
         }
     }
 }
