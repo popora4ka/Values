@@ -420,13 +420,13 @@
                 "godly": "18"
             },
             "C. Traveler's": {
-                "chroma": "150,000"
+                "godly_chroma": "150,000"
             },
             "C. Vampire's": {
-                "chroma": "29,000"
+                "godly_chroma": "29,000"
             },
             "Chroma Swirly": {
-                "chroma": "35"
+                "godly_chroma": "35"
             },
             "Latte": {
                 "legendary": "140"
@@ -1239,139 +1239,139 @@
             "ancient_evo": "13"
         },
         "Chroma Ever": {
-            "chroma": "57,000"
+            "godly_chroma": "57,000"
         },
         "Chroma Evergreen": {
-            "chroma": "41,000"
+            "godly_chroma": "41,000"
         },
         "Chroma Bauble": {
-            "chroma": "34,000"
+            "godly_chroma": "34,000"
         },
         "C. Constellation": {
-            "chroma": "31,000"
+            "godly_chroma": "31,000"
         },
         "Chroma Alienbeam": {
-            "chroma": "24,000"
+            "godly_chroma": "24,000"
         },
         "Chroma Ray": {
-            "chroma": "14,000"
+            "godly_chroma": "14,000"
         },
         "Chroma Sunrise": {
-            "chroma": "10,750"
+            "godly_chroma": "10,750"
         },
         "Chroma Snowcannon": {
-            "chroma": "7,750"
+            "godly_chroma": "7,750"
         },
         "Chroma Sunset": {
-            "chroma": "7,500"
+            "godly_chroma": "7,500"
         },
         "Chroma Blizzard": {
-            "chroma": "5,500"
+            "godly_chroma": "5,500"
         },
         "Chroma Snowstorm": {
-            "chroma": "4,250"
+            "godly_chroma": "4,250"
         },
         "Chroma Heart Wand": {
-            "chroma": "4,250"
+            "godly_chroma": "4,250"
         },
         "Chroma Water": {
-            "chroma": "2,600"
+            "godly_chroma": "2,600"
         },
         "Chroma Snow Dagger": {
-            "chroma": "2,350"
+            "godly_chroma": "2,350"
         },
         "Chroma Ornament": {
-            "chroma": "1,825"
+            "godly_chroma": "1,825"
         },
         "Chroma Treat": {
-            "chroma": "1,775"
+            "godly_chroma": "1,775"
         },
         "Chroma Icecream": {
-            "chroma": "1,750"
+            "godly_chroma": "1,750"
         },
         "Chroma Sweet": {
-            "chroma": "1,725"
+            "godly_chroma": "1,725"
         },
         "Chroma Sands": {
-            "chroma": "1,300"
+            "godly_chroma": "1,300"
         },
         "Chroma Beachy": {
-            "chroma": "1,250"
+            "godly_chroma": "1,250"
         },
         "Chroma Darkbringer": {
-            "chroma": "65"
+            "godly_chroma": "65"
         },
         "Chroma Lightbringer": {
-            "chroma": "60"
+            "godly_chroma": "60"
         },
         "Chroma Luger": {
-            "chroma": "50"
+            "godly_chroma": "50"
         },
         "Chroma Candleflame": {
-            "chroma": "40"
+            "godly_chroma": "40"
         },
         "Chroma Laser": {
-            "chroma": "40"
+            "godly_chroma": "40"
         },
         "C. Elderwood Blade": {
-            "chroma": "37"
+            "godly_chroma": "37"
         },
         "Chroma Deathshard": {
-            "chroma": "35"
+            "godly_chroma": "35"
         },
         "Chroma Cookiecane": {
-            "chroma": "32"
+            "godly_chroma": "32"
         },
         "Chroma Fang": {
-            "chroma": "32"
+            "godly_chroma": "32"
         },
         "Chroma Gemstone": {
-            "chroma": "32"
+            "godly_chroma": "32"
         },
         "Chroma Shark": {
-            "chroma": "32"
+            "godly_chroma": "32"
         },
         "Chroma Slasher": {
-            "chroma": "32"
+            "godly_chroma": "32"
         },
         "Chroma Heat": {
-            "chroma": "28"
+            "godly_chroma": "28"
         },
         "Chroma Seer": {
-            "chroma": "28"
+            "godly_chroma": "28"
         },
         "Chroma Gingerblade": {
-            "chroma": "27"
+            "godly_chroma": "27"
         },
         "Chroma Tides": {
-            "chroma": "27"
+            "godly_chroma": "27"
         },
         "Chroma Saw": {
-            "chroma": "23"
+            "godly_chroma": "23"
         },
         "Chroma Boneblade": {
-            "chroma": "22"
+            "godly_chroma": "22"
         },
         "Chroma Fire Bat": {
-            "chroma": "3"
+            "godly_chroma": "3"
         },
         "Chroma Fire Bear": {
-            "chroma": "3"
+            "godly_chroma": "3"
         },
         "Chroma Fire Bunny": {
-            "chroma": "3"
+            "godly_chroma": "3"
         },
         "Chroma Fire Cat": {
-            "chroma": "3"
+            "godly_chroma": "3"
         },
         "Chroma Fire Dog": {
-            "chroma": "3"
+            "godly_chroma": "3"
         },
         "Chroma Fire Fox": {
-            "chroma": "3"
+            "godly_chroma": "3"
         },
         "Chroma Fire Pig": {
-            "chroma": "3"
+            "godly_chroma": "3"
         },
         "Blood": {
             "vintage": "8"
