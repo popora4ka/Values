@@ -1,6 +1,6 @@
 {
-    "Weapon": {
-        "Knives": {
+    "Оружие": {
+        "Ножи": {
             "Latte": {
                 "legendary": "140"
             },
@@ -31,49 +31,49 @@
                 "legendary": "1"
             },
             "Arctic": {
-                "legendary": "x4 T1"
+                "legendary": "x4 T1 Legendaries"
             },
             "Cursed": {
-                "legendary": "x4 T1"
+                "legendary": "x4 T1 Legendaries"
             },
             "Energized": {
-                "legendary": "x4 T1"
+                "legendary": "x4 T1 Legendaries"
             },
             "Predator": {
-                "legendary": "x4 T1"
+                "legendary": "x4 T1 Legendaries"
             },
             "Ripper": {
-                "legendary": "x4 T1"
+                "legendary": "x4 T1 Legendaries"
             },
             "Tree": {
-                "legendary": "x4 T1",
-                "rare": "x3 T1"
+                "legendary": "x4 T1 Legendaries",
+                "rare": "x3 T1 Rares"
             },
             "Frozen": {
-                "legendary": "x3 T1",
+                "legendary": "x3 T1 Legendaries",
                 "uncommon": "1",
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Ginger": {
-                "legendary": "x2 T1",
-                "rare": "x4 T1"
+                "legendary": "x2 T1 Legendaries",
+                "rare": "x4 T1 Rares"
             },
             "Aquarium": {
-                "legendary": "x2 T1"
+                "legendary": "x2 T1 Legendaries"
             },
             "Palms": {
-                "legendary": "x2 T1"
+                "legendary": "x2 T1 Legendaries"
             },
             "Overseer": {
-                "legendary": "x4 T1"
+                "legendary": "x4 T1 Legendaries"
             },
             "Splash": {
-                "legendary": "x4 T1"
+                "legendary": "x4 T1 Legendaries"
             },
             "Cane": {
                 "rare": "525",
-                "rare_2": "x4 T1",
-                "common": "x3 T1"
+                "rare_2": "x4 T1 Rares",
+                "common": "x3 T1 Commons"
             },
             "Silent Night": {
                 "rare": "50"
@@ -97,71 +97,71 @@
                 "rare": "1"
             },
             "Starry": {
-                "rare": "x4 T1"
+                "rare": "x4 T1 Rares"
             },
             "Magma": {
-                "rare": "x3 T1"
+                "rare": "x3 T1 Rares"
             },
             "Watcher": {
-                "rare": "x3 T1",
-                "common": "x2 T1"
+                "rare": "x3 T1 Rares",
+                "common": "x2 T1 Commons"
             },
             "Icicles": {
-                "rare": "x3 T1"
+                "rare": "x3 T1 Rares"
             },
             "Ghastly": {
-                "rare": "x2 T1"
+                "rare": "x2 T1 Rares"
             },
             "Molten": {
-                "rare": "x2 T1"
+                "rare": "x2 T1 Rares"
             },
             "Frostflame": {
-                "rare": "x1 T1"
+                "rare": "x1 T1 Rares"
             },
             "Gingerbread": {
-                "rare": "x1 T1",
+                "rare": "x1 T1 Rares",
                 "uncommon": "85",
                 "uncommon_2": "10",
-                "uncommon_3": "x2 T1"
+                "uncommon_3": "x2 T1 Uncommons"
             },
             "Painted": {
-                "rare": "x1 T1"
+                "rare": "x1 T1 Rares"
             },
             "Bones": {
-                "rare": "x3 T1",
-                "uncommon": "x2 T1"
+                "rare": "x3 T1 Rares",
+                "uncommon": "x2 T1 Uncommons"
             },
             "Gingercookie": {
-                "rare": "x3 T1"
+                "rare": "x3 T1 Rares"
             },
             "Pop Art": {
-                "rare": "x3 T1"
+                "rare": "x3 T1 Rares"
             },
             "Xeno": {
-                "rare": "x3 T1"
+                "rare": "x3 T1 Rares"
             },
             "Hologram": {
-                "rare": "x2 T1"
+                "rare": "x2 T1 Rares"
             },
             "Portal": {
-                "rare": "x2 T1"
+                "rare": "x2 T1 Rares"
             },
             "Spearmint": {
-                "rare": "x2 T1"
+                "rare": "x2 T1 Rares"
             },
             "Rainbow": {
-                "rare": "x4 T1"
+                "rare": "x4 T1 Rares"
             },
             "Zombified": {
                 "uncommon": "120"
             },
             "Sweater": {
                 "uncommon": "60",
-                "uncommon_2": "x3 T1"
+                "uncommon_2": "x3 T1 Uncommons"
             },
             "Snowflake": {
                 "uncommon": "55",
-                "uncommon_2": "x1 T1"
+                "uncommon_2": "x1 T1 Uncommons"
             },
             "Wrap": {
                 "uncommon": "12"
@@ -177,83 +177,83 @@
             },
             "Lights": {
                 "uncommon": "1",
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Mummy": {
                 "uncommon": "1",
-                "uncommon_2": "x1 T1"
+                "uncommon_2": "x1 T1 Uncommons"
             },
             "Zombie": {
                 "uncommon": "1"
             },
             "Gothic": {
-                "uncommon": "x4 T1"
+                "uncommon": "x4 T1 Uncommons"
             },
             "Snowman": {
-                "uncommon": "x4 T1",
-                "uncommon_2": "x1 T1",
-                "common": "x3 T1",
-                "common_2": "x2 T1"
+                "uncommon": "x4 T1 Uncommons",
+                "uncommon_2": "x1 T1 Uncommons",
+                "common": "x3 T1 Commons",
+                "common_2": "x2 T1 Commons"
             },
             "Wrapped": {
-                "uncommon": "x4 T1",
-                "uncommon_2": "x2 T1",
-                "common": "x3 T1"
+                "uncommon": "x4 T1 Uncommons",
+                "uncommon_2": "x2 T1 Uncommons",
+                "common": "x3 T1 Commons"
             },
             "Steel": {
-                "uncommon": "x2 T1"
+                "uncommon": "x2 T1 Uncommons"
             },
             "Wraiths": {
-                "uncommon": "x1 T1"
+                "uncommon": "x1 T1 Uncommons"
             },
             "Hazard": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Holly": {
-                "uncommon": "x1 T1"
+                "uncommon": "x1 T1 Uncommons"
             },
             "Stockings": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Carrot": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Lava": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Mistletoe": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Canes": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Ghosts": {
-                "uncommon": "x2 T1"
+                "uncommon": "x2 T1 Uncommons"
             },
             "Pumpkin": {
-                "uncommon": "x2 T1"
+                "uncommon": "x2 T1 Uncommons"
             },
             "Soda": {
-                "uncommon": "x2 T1"
+                "uncommon": "x2 T1 Uncommons"
             },
             "Treats": {
-                "uncommon": "x2 T1"
+                "uncommon": "x2 T1 Uncommons"
             },
             "Adurite": {
-                "uncommon": "x4 T1"
+                "uncommon": "x4 T1 Uncommons"
             },
             "Bluesteel": {
-                "uncommon": "x4 T1"
+                "uncommon": "x4 T1 Uncommons"
             },
             "Camo": {
-                "uncommon": "x4 T1"
+                "uncommon": "x4 T1 Uncommons"
             },
             "Default": {
                 "common": "untradable"
             },
             "Bats": {
                 "common": "240",
-                "common_2": "x2 T1"
+                "common_2": "x2 T1 Commons"
             },
             "Gifts": {
                 "common": "95"
@@ -266,8 +266,8 @@
             },
             "Coal": {
                 "common": "15",
-                "common_2": "x3 T1",
-                "common_3": "x2 T1"
+                "common_2": "x3 T1 Commons",
+                "common_3": "x2 T1 Commons"
             },
             "Elf": {
                 "common": "15"
@@ -282,100 +282,100 @@
                 "common": "1"
             },
             "Apocalypse": {
-                "common": "x4 T1"
+                "common": "x4 T1 Commons"
             },
             "Infected": {
-                "common": "x4 T1"
+                "common": "x4 T1 Commons"
             },
             "Webbed": {
-                "common": "x4 T1"
+                "common": "x4 T1 Commons"
             },
             "Ornament2": {
-                "common": "x4 T1"
+                "common": "x4 T1 Commons"
             },
             "Santa": {
-                "common": "x4 T1"
+                "common": "x4 T1 Commons"
             },
             "Gift Bag": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Snowflakes": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "RB": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Candied": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Darkness": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Fragile": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Ornaments": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Toy": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Vines": {
-                "common": "x1 T1"
+                "common": "x1 T1 Commons"
             },
             "Candy Corn": {
-                "common": "x3 T1",
-                "common_2": "x2 T1",
-                "common_3": "x2 T1"
+                "common": "x3 T1 Commons",
+                "common_2": "x2 T1 Commons",
+                "common_3": "x2 T1 Commons"
             },
             "Cracks": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Stickers": {
-                "common": "x3 T1",
-                "common_2": "x2 T1",
-                "common_3": "x2 T1",
-                "common_4": "x2 T1",
-                "common_5": "x2 T1",
-                "common_6": "x2 T1",
-                "common_7": "x2 T1",
-                "common_8": "x2 T1"
+                "common": "x3 T1 Commons",
+                "common_2": "x2 T1 Commons",
+                "common_3": "x2 T1 Commons",
+                "common_4": "x2 T1 Commons",
+                "common_5": "x2 T1 Commons",
+                "common_6": "x2 T1 Commons",
+                "common_7": "x2 T1 Commons",
+                "common_8": "x2 T1 Commons"
             },
             "Wavy": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Clownfish": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "UFOs": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Carved": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Igloo": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Peppermint": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Snowball": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Starfish": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Strawberries": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Striped": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Clown": {
-                "common": "x1 T1"
+                "common": "x1 T1 Commons"
             },
             "Love": {
-                "common": "x1 T1"
+                "common": "x1 T1 Commons"
             },
             "slouse's Clown": {
                 "unknown": "untradable"
@@ -410,7 +410,7 @@
                 "godly": "1,825"
             },
             "Rainbow": {
-                "rare": "x4 T1",
+                "rare": "x4 T1 Rares",
                 "godly": "420"
             },
             "Flowerwood": {
@@ -447,7 +447,7 @@
             },
             "Ginger": {
                 "legendary": "5",
-                "rare": "x4 T1"
+                "rare": "x4 T1 Rares"
             },
             "Spectral": {
                 "legendary": "3"
@@ -462,47 +462,47 @@
                 "legendary": "1"
             },
             "Chromatic": {
-                "legendary": "x4 T1"
+                "legendary": "x4 T1 Legendaries"
             },
             "Frozen": {
-                "legendary": "x4 T1",
+                "legendary": "x4 T1 Legendaries",
                 "uncommon": "3",
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Overseer": {
-                "legendary": "x4 T1"
+                "legendary": "x4 T1 Legendaries"
             },
             "Tree": {
-                "legendary": "x4 T1",
-                "rare": "x2 T1"
+                "legendary": "x4 T1 Legendaries",
+                "rare": "x2 T1 Rares"
             },
             "Aquarium": {
-                "legendary": "x3 T1"
+                "legendary": "x3 T1 Legendaries"
             },
             "Cursed": {
-                "legendary": "x3 T1"
+                "legendary": "x3 T1 Legendaries"
             },
             "Frostfade": {
-                "legendary": "x3 T1"
+                "legendary": "x3 T1 Legendaries"
             },
             "Palms": {
-                "legendary": "x3 T1"
+                "legendary": "x3 T1 Legendaries"
             },
             "Ripper": {
-                "legendary": "x2 T1"
+                "legendary": "x2 T1 Legendaries"
             },
             "Predator": {
-                "legendary": "x4 T1"
+                "legendary": "x4 T1 Legendaries"
             },
             "Splash": {
-                "legendary": "x3 T1"
+                "legendary": "x3 T1 Legendaries"
             },
             "Starry": {
                 "rare": "22"
             },
             "Watcher": {
                 "rare": "20",
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Magma": {
                 "rare": "13"
@@ -526,49 +526,49 @@
                 "rare": "1"
             },
             "Gingerbread": {
-                "rare": "x4 T1",
+                "rare": "x4 T1 Rares",
                 "uncommon": "3",
                 "uncommon_2": "1",
-                "uncommon_3": "x3 T1",
-                "uncommon_4": "x3 T1"
+                "uncommon_3": "x3 T1 Uncommons",
+                "uncommon_4": "x3 T1 Uncommons"
             },
             "Cane": {
-                "rare": "x4 T1",
-                "rare_2": "x3 T1",
-                "common": "x2 T1"
+                "rare": "x4 T1 Rares",
+                "rare_2": "x3 T1 Rares",
+                "common": "x2 T1 Commons"
             },
             "Molten": {
-                "rare": "x2 T1"
+                "rare": "x2 T1 Rares"
             },
             "Candleflame": {
-                "rare": "x1 T1"
+                "rare": "x1 T1 Rares"
             },
             "Wraith": {
-                "rare": "x1 T1"
+                "rare": "x1 T1 Rares"
             },
             "Frostflame": {
-                "rare": "x3 T1"
+                "rare": "x3 T1 Rares"
             },
             "Ghosts": {
-                "rare": "x3 T1"
+                "rare": "x3 T1 Rares"
             },
             "Hologram": {
-                "rare": "x3 T1"
+                "rare": "x3 T1 Rares"
             },
             "Spearmint": {
-                "rare": "x3 T1"
+                "rare": "x3 T1 Rares"
             },
             "Xeno": {
-                "rare": "x2 T1"
+                "rare": "x2 T1 Rares"
             },
             "Floral": {
-                "rare": "x2 T1"
+                "rare": "x2 T1 Rares"
             },
             "Gingercookie": {
-                "rare": "x2 T1"
+                "rare": "x2 T1 Rares"
             },
             "Pop Art": {
-                "rare": "x2 T1"
+                "rare": "x2 T1 Rares"
             },
             "Zombified": {
                 "uncommon": "15"
@@ -584,9 +584,9 @@
             },
             "Snowman": {
                 "uncommon": "5",
-                "uncommon_2": "x4 T1",
+                "uncommon_2": "x4 T1 Uncommons",
                 "common": "25",
-                "common_2": "x2 T1"
+                "common_2": "x2 T1 Commons"
             },
             "Hazard": {
                 "uncommon": "5"
@@ -596,11 +596,11 @@
             },
             "Lights": {
                 "uncommon": "2",
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Mummy": {
                 "uncommon": "2",
-                "uncommon_2": "x3 T1"
+                "uncommon_2": "x3 T1 Uncommons"
             },
             "Potion": {
                 "uncommon": "2"
@@ -609,72 +609,72 @@
                 "uncommon": "1"
             },
             "Wrapped": {
-                "uncommon": "x4 T1",
-                "uncommon_2": "x1 T1",
+                "uncommon": "x4 T1 Uncommons",
+                "uncommon_2": "x1 T1 Uncommons",
                 "common": "30"
             },
             "Mistletoe": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Love": {
-                "uncommon": "x2 T1"
+                "uncommon": "x2 T1 Uncommons"
             },
             "Canes": {
-                "uncommon": "x1 T1"
+                "uncommon": "x1 T1 Uncommons"
             },
             "Cookie": {
-                "uncommon": "x1 T1"
+                "uncommon": "x1 T1 Uncommons"
             },
             "Snowflake": {
-                "uncommon": "x1 T1",
-                "uncommon_2": "x3 T1"
+                "uncommon": "x1 T1 Uncommons",
+                "uncommon_2": "x3 T1 Uncommons"
             },
             "Carrot": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Clown": {
-                "uncommon": "x3 T1",
-                "common": "x1 T1"
+                "uncommon": "x3 T1 Uncommons",
+                "common": "x1 T1 Commons"
             },
             "Painted": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Sweater": {
-                "uncommon": "x3 T1",
-                "uncommon_2": "x2 T1"
+                "uncommon": "x3 T1 Uncommons",
+                "uncommon_2": "x2 T1 Uncommons"
             },
             "Wraiths": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Stars": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Soda": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Stockings": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Treats": {
-                "uncommon": "x3 T1"
+                "uncommon": "x3 T1 Uncommons"
             },
             "Portal": {
-                "uncommon": "x2 T1"
+                "uncommon": "x2 T1 Uncommons"
             },
             "Lava": {
-                "uncommon": "x2 T1"
+                "uncommon": "x2 T1 Uncommons"
             },
             "Popsicle": {
-                "uncommon": "x2 T1"
+                "uncommon": "x2 T1 Uncommons"
             },
             "Adurite": {
-                "uncommon": "x4 T1"
+                "uncommon": "x4 T1 Uncommons"
             },
             "Bluesteel": {
-                "uncommon": "x4 T1"
+                "uncommon": "x4 T1 Uncommons"
             },
             "Camo": {
-                "uncommon": "x4 T1"
+                "uncommon": "x4 T1 Uncommons"
             },
             "Default": {
                 "common": "untradable"
@@ -693,7 +693,7 @@
             },
             "Bats": {
                 "common": "1",
-                "common_2": "x3 T1"
+                "common_2": "x3 T1 Commons"
             },
             "Grave": {
                 "common": "1"
@@ -705,98 +705,98 @@
                 "common": "1"
             },
             "Frosted": {
-                "common": "x4 T1"
+                "common": "x4 T1 Commons"
             },
             "Elf": {
-                "common": "x4 T1"
+                "common": "x4 T1 Commons"
             },
             "Ornament2": {
-                "common": "x4 T1"
+                "common": "x4 T1 Commons"
             },
             "Santa": {
-                "common": "x4 T1"
+                "common": "x4 T1 Commons"
             },
             "Gifts": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Pine": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Ornaments": {
-                "common": "x1 T1"
+                "common": "x1 T1 Commons"
             },
             "Cracks": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Fragile": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Gift Bag": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Coal": {
-                "common": "x1 T1",
-                "common_2": "x3 T1"
+                "common": "x1 T1 Commons",
+                "common_2": "x3 T1 Commons"
             },
             "Toy": {
-                "common": "x1 T1"
+                "common": "x1 T1 Commons"
             },
             "Candied": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Candy Corn": {
-                "common": "x3 T1",
-                "common_2": "x2 T1",
-                "common_3": "x2 T1"
+                "common": "x3 T1 Commons",
+                "common_2": "x2 T1 Commons",
+                "common_3": "x2 T1 Commons"
             },
             "Carved": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Darkness": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Stickers": {
-                "common": "x3 T1",
-                "common_2": "x2 T1",
-                "common_3": "x2 T1",
-                "common_4": "x2 T1",
-                "common_5": "x2 T1",
-                "common_6": "x2 T1",
-                "common_7": "x2 T1",
-                "common_8": "x2 T1"
+                "common": "x3 T1 Commons",
+                "common_2": "x2 T1 Commons",
+                "common_3": "x2 T1 Commons",
+                "common_4": "x2 T1 Commons",
+                "common_5": "x2 T1 Commons",
+                "common_6": "x2 T1 Commons",
+                "common_7": "x2 T1 Commons",
+                "common_8": "x2 T1 Commons"
             },
             "Igloo": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Wavy": {
-                "common": "x3 T1"
+                "common": "x3 T1 Commons"
             },
             "Clownfish": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Peppermint": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Sandy": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Snowball": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Starfish": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Strawberries": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Striped": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "UFOs": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "Vines": {
-                "common": "x2 T1"
+                "common": "x2 T1 Commons"
             },
             "slouse's Clown": {
                 "unknown": "untradable"
@@ -832,8 +832,8 @@
             "godly": "1,775"
         },
         "Blossom": {
-            "uncommon": "x2 T1",
-            "common": "x4 T1",
+            "uncommon": "x2 T1 Uncommons",
+            "common": "x4 T1 Commons",
             "godly": "1,370"
         },
         "Sakura": {
@@ -852,7 +852,7 @@
             "godly": "655"
         },
         "Sunset": {
-            "rare": "x3 T1",
+            "rare": "x3 T1 Rares",
             "godly": "650"
         },
         "Spirit": {
@@ -899,7 +899,7 @@
             "godly": "285"
         },
         "Waves": {
-            "rare": "x2 T1",
+            "rare": "x2 T1 Rares",
             "godly": "280"
         },
         "Flowerwood": {
@@ -945,7 +945,7 @@
             "godly": "80"
         },
         "Ornament": {
-            "common": "x4 T1",
+            "common": "x4 T1 Commons",
             "godly": "80"
         },
         "Pearl": {
@@ -1102,7 +1102,7 @@
             "godly": "10"
         },
         "Spider": {
-            "common": "x2 T1",
+            "common": "x2 T1 Commons",
             "godly": "10"
         },
         "Tides": {
@@ -1167,7 +1167,7 @@
             "godly": "5"
         },
         "Snowflake": {
-            "rare": "x2 T1",
+            "rare": "x2 T1 Rares",
             "unknown": "untradable",
             "godly": "5"
         },
@@ -1415,8 +1415,8 @@
             "unknown": "625",
             "unknown_2": "25",
             "common": "20",
-            "common_2": "x3 T1",
-            "common_3": "x2 T1"
+            "common_2": "x3 T1 Commons",
+            "common_3": "x2 T1 Commons"
         },
         "Blue Pumpkin": {
             "unknown": "220",
@@ -1447,9 +1447,9 @@
             "unknown_3": "x3 T1",
             "unknown_4": "x2 T1",
             "unknown_5": "x1 T1",
-            "uncommon": "x3 T1",
+            "uncommon": "x3 T1 Uncommons",
             "common": "12",
-            "common_2": "x1 T1",
+            "common_2": "x1 T1 Commons",
             "unknown_6": "untradable",
             "unknown_7": "untradable",
             "unknown_8": "untradable"
@@ -1490,7 +1490,7 @@
         },
         "Eyeball": {
             "unknown": "3",
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Fairy": {
             "unknown": "3"
@@ -1509,8 +1509,8 @@
         },
         "Reindeer": {
             "unknown": "3",
-            "common": "x1 T1",
-            "common_2": "x2 T1"
+            "common": "x1 T1 Commons",
+            "common_2": "x2 T1 Commons"
         },
         "Rudolph": {
             "unknown": "3"
@@ -1607,25 +1607,25 @@
         },
         "Cat": {
             "unknown": "x1 T1",
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Dog": {
             "unknown": "x1 T1"
         },
         "Santa": {
             "unknown": "untradable",
-            "common": "x1 T1",
-            "common_2": "x3 T1",
-            "common_3": "x3 T1"
+            "common": "x1 T1 Commons",
+            "common_2": "x3 T1 Commons",
+            "common_3": "x3 T1 Commons"
         },
         "Bunny": {
             "unknown": "untradable",
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Snowman": {
             "unknown": "untradable",
-            "uncommon": "x3 T1",
-            "uncommon_2": "x2 T1"
+            "uncommon": "x3 T1 Uncommons",
+            "uncommon_2": "x2 T1 Uncommons"
         },
         "Ghosty": {
             "unknown": "untradable",
@@ -1685,56 +1685,56 @@
             "legendary": "1"
         },
         "Emerald": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Nightstar": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Rupture": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Web": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Green Fire": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Midnight": {
-            "legendary": "x3 T1"
+            "legendary": "x3 T1 Legendaries"
         },
         "Sparkle": {
-            "legendary": "x3 T1"
+            "legendary": "x3 T1 Legendaries"
         },
         "Bubbles": {
-            "legendary": "x2 T1"
+            "legendary": "x2 T1 Legendaries"
         },
         "Cupid": {
-            "legendary": "x2 T1"
+            "legendary": "x2 T1 Legendaries"
         },
         "Rune": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Universe": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Viper": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Fade": {
-            "legendary": "x4 T1",
+            "legendary": "x4 T1 Legendaries",
             "unknown": "untradable"
         },
         "Fusion": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Plasmite": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Shiny": {
-            "legendary": "x4 T1"
+            "legendary": "x4 T1 Legendaries"
         },
         "Elite": {
-            "legendary": "x3 T1",
+            "legendary": "x3 T1 Legendaries",
             "unknown": "untradable"
         },
         "Dungeon": {
@@ -1783,169 +1783,169 @@
         },
         "Monster": {
             "rare": "1",
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Mummy": {
-            "rare": "x4 T1",
+            "rare": "x4 T1 Rares",
             "uncommon": "20"
         },
         "Nuke": {
-            "rare": "x3 T1"
+            "rare": "x3 T1 Rares"
         },
         "Snowy": {
-            "rare": "x3 T1",
-            "uncommon": "x4 T1",
+            "rare": "x3 T1 Rares",
+            "uncommon": "x4 T1 Uncommons",
             "unknown": "untradable"
         },
         "Ice Camo": {
-            "rare": "x2 T1"
+            "rare": "x2 T1 Rares"
         },
         "Logcutter": {
-            "rare": "x2 T1"
+            "rare": "x2 T1 Rares"
         },
         "Butterflies": {
-            "rare": "x1 T1"
+            "rare": "x1 T1 Rares"
         },
         "Heart": {
-            "rare": "x1 T1",
+            "rare": "x1 T1 Rares",
             "unknown": "untradable"
         },
         "Neon": {
-            "rare": "x1 T1",
-            "rare_2": "x2 T1",
-            "common": "x3 T1"
+            "rare": "x1 T1 Rares",
+            "rare_2": "x2 T1 Rares",
+            "common": "x3 T1 Commons"
         },
         "Damp": {
-            "rare": "x1 T1"
+            "rare": "x1 T1 Rares"
         },
         "Nether": {
-            "rare": "x1 T1"
+            "rare": "x1 T1 Rares"
         },
         "Spitfire": {
-            "rare": "x1 T1"
+            "rare": "x1 T1 Rares"
         },
         "Storm": {
-            "rare": "x1 T1"
+            "rare": "x1 T1 Rares"
         },
         "Tree": {
-            "rare": "x3 T1",
+            "rare": "x3 T1 Rares",
             "uncommon": "2",
-            "uncommon_2": "x3 T1",
+            "uncommon_2": "x3 T1 Uncommons",
             "unknown": "untradable"
         },
         "Bio": {
-            "rare": "x3 T1",
-            "uncommon": "x4 T1"
+            "rare": "x3 T1 Rares",
+            "uncommon": "x4 T1 Uncommons"
         },
         "Curse": {
-            "rare": "x3 T1"
+            "rare": "x3 T1 Rares"
         },
         "Pier": {
-            "rare": "x3 T1"
+            "rare": "x3 T1 Rares"
         },
         "Sunny": {
-            "rare": "x3 T1"
+            "rare": "x3 T1 Rares"
         },
         "Tropical": {
-            "rare": "x3 T1"
+            "rare": "x3 T1 Rares"
         },
         "Kraken": {
-            "rare": "x2 T1"
+            "rare": "x2 T1 Rares"
         },
         "Ritual": {
-            "rare": "x2 T1"
+            "rare": "x2 T1 Rares"
         },
         "Snowglobe": {
-            "rare": "x2 T1",
+            "rare": "x2 T1 Rares",
             "unknown": "untradable"
         },
         "Heartbreak": {
-            "rare": "x2 T1"
+            "rare": "x2 T1 Rares"
         },
         "Robot": {
-            "rare": "x2 T1"
+            "rare": "x2 T1 Rares"
         },
         "Sharky": {
-            "rare": "x2 T1"
+            "rare": "x2 T1 Rares"
         },
         "Sleigh": {
-            "rare": "x2 T1"
+            "rare": "x2 T1 Rares"
         },
         "Spring": {
-            "rare": "x2 T1"
+            "rare": "x2 T1 Rares"
         },
         "Yummy": {
-            "rare": "x2 T1"
+            "rare": "x2 T1 Rares"
         },
         "Black": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Abstract": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Ace": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Bacon": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Galactic": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Galaxy": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Hacker": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Imbued": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "iRevolver": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Korblox": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Krypto": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Musical": {
-            "rare": "x4 T1",
+            "rare": "x4 T1 Rares",
             "unknown": "untradable"
         },
         "Nightfire": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Nova": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Purple": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Space": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Spectrum": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Squire": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Vortex": {
-            "rare": "x4 T1"
+            "rare": "x4 T1 Rares"
         },
         "Deep Sea": {
-            "rare": "x3 T1"
+            "rare": "x3 T1 Rares"
         },
         "Bones": {
             "uncommon": "210",
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Brains": {
             "uncommon": "135",
-            "uncommon_2": "x3 T1",
-            "common": "x4 T1"
+            "uncommon_2": "x3 T1 Uncommons",
+            "common": "x4 T1 Commons"
         },
         "Branches": {
             "uncommon": "50"
@@ -1965,7 +1965,7 @@
         },
         "Webs": {
             "uncommon": "3",
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Potion": {
             "uncommon": "3"
@@ -1981,7 +1981,7 @@
         },
         "Moons": {
             "uncommon": "1",
-            "uncommon_2": "x3 T1"
+            "uncommon_2": "x3 T1 Uncommons"
         },
         "Vampire": {
             "uncommon": "1",
@@ -1991,218 +1991,218 @@
             "uncommon": "1"
         },
         "Nutcracker": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Gifted": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Pool Noodle": {
-            "uncommon": "x1 T1"
+            "uncommon": "x1 T1 Uncommons"
         },
         "Gingerheart": {
-            "uncommon": "x2 T1"
+            "uncommon": "x2 T1 Uncommons"
         },
         "Rose": {
-            "uncommon": "x2 T1"
+            "uncommon": "x2 T1 Uncommons"
         },
         "Fireplace": {
-            "uncommon": "x1 T1"
+            "uncommon": "x1 T1 Uncommons"
         },
         "Forest": {
-            "uncommon": "x1 T1"
+            "uncommon": "x1 T1 Uncommons"
         },
         "Marble": {
-            "uncommon": "x1 T1"
+            "uncommon": "x1 T1 Uncommons"
         },
         "Melon": {
-            "uncommon": "x1 T1",
-            "uncommon_2": "x4 T1"
+            "uncommon": "x1 T1 Uncommons",
+            "uncommon_2": "x4 T1 Uncommons"
         },
         "Frosty": {
-            "uncommon": "x1 T1"
+            "uncommon": "x1 T1 Uncommons"
         },
         "Carrot": {
-            "uncommon": "x3 T1",
-            "common": "x4 T1"
+            "uncommon": "x3 T1 Uncommons",
+            "common": "x4 T1 Commons"
         },
         "Fall Camo": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Floatie": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Witchbrew": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Sweater": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Checkers": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Decorated": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Eclipse": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Eyes": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Future": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Glowy": {
-            "uncommon": "x3 T1",
+            "uncommon": "x3 T1 Uncommons",
             "unknown": "untradable"
         },
         "Meadow": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Night": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Polar Bear": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Pool": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Popsicle": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Floral": {
-            "uncommon": "x3 T1",
+            "uncommon": "x3 T1 Uncommons",
             "unknown": "untradable"
         },
         "Neopolitan": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Turtles": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Ghostly": {
-            "uncommon": "x2 T1",
+            "uncommon": "x2 T1 Uncommons",
             "unknown": "untradable"
         },
         "Donut": {
-            "uncommon": "x2 T1"
+            "uncommon": "x2 T1 Uncommons"
         },
         "Abduction": {
-            "uncommon": "x2 T1",
+            "uncommon": "x2 T1 Uncommons",
             "unknown": "untradable"
         },
         "Jellyfish": {
-            "uncommon": "x2 T1",
+            "uncommon": "x2 T1 Uncommons",
             "unknown": "untradable"
         },
         "Leaves": {
-            "uncommon": "x2 T1",
-            "common": "x2 T1",
+            "uncommon": "x2 T1 Uncommons",
+            "common": "x2 T1 Commons",
             "unknown": "untradable"
         },
         "Ornaments": {
-            "uncommon": "x2 T1"
+            "uncommon": "x2 T1 Uncommons"
         },
         "Paws": {
-            "uncommon": "x2 T1"
+            "uncommon": "x2 T1 Uncommons"
         },
         "Pumpkin Patch": {
-            "uncommon": "x2 T1"
+            "uncommon": "x2 T1 Uncommons"
         },
         "Retro": {
-            "uncommon": "x2 T1",
+            "uncommon": "x2 T1 Uncommons",
             "unknown": "untradable"
         },
         "Starry": {
-            "uncommon": "x2 T1",
+            "uncommon": "x2 T1 Uncommons",
             "common": "5",
             "unknown": "untradable"
         },
         "Turtle": {
-            "uncommon": "x2 T1"
+            "uncommon": "x2 T1 Uncommons"
         },
         "Witch's Brew": {
-            "uncommon": "x2 T1"
+            "uncommon": "x2 T1 Uncommons"
         },
         "Wreaths": {
-            "uncommon": "x2 T1"
+            "uncommon": "x2 T1 Uncommons"
         },
         "Doge": {
-            "uncommon": "x4 T1",
+            "uncommon": "x4 T1 Uncommons",
             "unknown": "untradable"
         },
         "Sketch": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Blue": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Brush": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Caution": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Cheddar": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Cheesy": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Circuit": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Hazmat": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Hive": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Jigsaw": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Lucky": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Marina": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Missing": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Paper": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Pink": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Pirate": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Red": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Soda": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Stalker": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Tiger": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Wanwood": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Wooden": {
-            "uncommon": "x4 T1"
+            "uncommon": "x4 T1 Uncommons"
         },
         "Graffiti": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "High Tech": {
-            "uncommon": "x3 T1"
+            "uncommon": "x3 T1 Uncommons"
         },
         "Glitch1": {
             "common": "65"
@@ -2310,607 +2310,607 @@
             "common": "1"
         },
         "2015": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Choco": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Egg": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Goo": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Hearts": {
-            "common": "x4 T1",
-            "common_2": "x2 T1",
+            "common": "x4 T1 Commons",
+            "common_2": "x2 T1 Commons",
             "unknown": "untradable"
         },
         "Ornament1": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Passion": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Patrick": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Reptile": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Roses": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Sweetheart": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Tulip": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Valentine": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Witch": {
-            "common": "x4 T1"
+            "common": "x4 T1 Commons"
         },
         "Hunter": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "Infected": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "TNL": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "Ribbons": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Etched": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Moon": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "Love": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "Scarf": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "Stockings": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Trees": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Aliens": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Ghosts": {
-            "common": "x1 T1",
-            "common_2": "x2 T1",
+            "common": "x1 T1 Commons",
+            "common_2": "x2 T1 Commons",
             "unknown": "untradable"
         },
         "Ribbon": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Penguin": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Candle": {
-            "common": "x3 T1",
+            "common": "x3 T1 Commons",
             "unknown": "untradable"
         },
         "Coal": {
-            "common": "x3 T1",
+            "common": "x3 T1 Commons",
             "unknown": "untradable"
         },
         "Present": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "Candles": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "Carrots": {
-            "common": "x3 T1",
+            "common": "x3 T1 Commons",
             "unknown": "untradable"
         },
         "Cats": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "Chick": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "Gifts": {
-            "common": "x3 T1",
+            "common": "x3 T1 Commons",
             "unknown": "untradable"
         },
         "Haunted": {
-            "common": "x3 T1",
-            "common_2": "x2 T1"
+            "common": "x3 T1 Commons",
+            "common_2": "x2 T1 Commons"
         },
         "Hot Chocolate": {
-            "common": "x3 T1"
+            "common": "x3 T1 Commons"
         },
         "Giftwrap": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Balloons": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Bells": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Cherries": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Coconut": {
-            "common": "x2 T1",
+            "common": "x2 T1 Commons",
             "unknown": "untradable"
         },
         "Dolphins": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Duckies": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Fall": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Plaid": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Sand": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Skyline": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Snowfall": {
-            "common": "x2 T1",
+            "common": "x2 T1 Commons",
             "unknown": "untradable"
         },
         "Stickers": {
-            "common": "x2 T1",
+            "common": "x2 T1 Commons",
             "unknown": "untradable"
         },
         "Tourist": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Wood": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "Xbox": {
-            "common": "x2 T1"
+            "common": "x2 T1 Commons"
         },
         "8Bit": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Aqua": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Big Kill": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Bit": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Bleached": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Borders": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Brown": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Cardboard": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Cherry": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Clan": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Cold": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Combat": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Copper": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Eco": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Engraved": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Fallout": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Green": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Hardened": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "HL2": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Ice": {
-            "common": "x1 T1",
+            "common": "x1 T1 Commons",
             "unknown": "untradable"
         },
         "Infiltrator": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Iron": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Juice": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Leaf": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Linked": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Log": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Lovely": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "News": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Oily": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Orange": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Pea": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Sandy": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Shaded": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Slate": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Splat": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Splatter": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Stainless": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Star": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Static": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Whiteout": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Yellow": {
-            "common": "x1 T1"
+            "common": "x1 T1 Commons"
         },
         "Chroma Ever Set": {
-            "unknown": "98,000"
+            "set": "98,000"
         },
         "Chroma Alien Set": {
-            "unknown": "38,000"
+            "set": "38,000"
         },
         "Chroma Bauble Set": {
-            "unknown": "35,825"
+            "set": "35,825"
         },
         "Chroma Sun Set": {
-            "unknown": "18,250"
+            "set": "18,250"
         },
         "Chroma Snow Set": {
-            "unknown": "10,100"
+            "set": "10,100"
         },
         "Chroma Blizzard Set": {
-            "unknown": "9,750"
+            "set": "9,750"
         },
         "Chroma Sweet Set": {
-            "unknown": "3,500"
+            "set": "3,500"
         },
         "Chroma Beach Set": {
-            "unknown": "2,550"
+            "set": "2,550"
         },
         "Chroma Bringer Set": {
-            "unknown": "125"
+            "set": "125"
         },
         "Chroma Slasher Set": {
-            "unknown": "72"
+            "set": "72"
         },
         "Chroma Pet Set": {
-            "unknown": "21"
+            "set": "21"
         },
         "Traveler's Set": {
-            "unknown": "13,300"
+            "set": "13,300"
         },
         "Ever Set": {
-            "unknown": "5,950"
+            "set": "5,950"
         },
         "Celestial Set": {
-            "unknown": "5,000"
+            "set": "5,000"
         },
         "Alien Set": {
-            "unknown": "4,050"
+            "set": "4,050"
         },
         "Dark Set": {
-            "unknown": "3,575",
-            "unknown_2": "71"
+            "set": "3,575",
+            "set_2": "71"
         },
         "Vampire's Set": {
-            "unknown": "3,425"
+            "set": "3,425"
         },
         "Sakura Set": {
-            "unknown": "2,730"
+            "set": "2,730"
         },
         "Sun Set": {
-            "unknown": "1,725"
+            "set": "1,725"
         },
         "Soul Set": {
-            "unknown": "1,300"
+            "set": "1,300"
         },
         "Snow Set": {
-            "unknown": "850"
+            "set": "850"
         },
         "Rainbow Set": {
-            "unknown": "830"
+            "set": "830"
         },
         "Bloom Set": {
-            "unknown": "810"
+            "set": "810"
         },
         "Xeno Set": {
-            "unknown": "810"
+            "set": "810"
         },
         "Bauble Set": {
-            "unknown": "755"
+            "set": "755"
         },
         "Blizzard Set": {
-            "unknown": "610"
+            "set": "610"
         },
         "Ocean Set": {
-            "unknown": "565"
+            "set": "565"
         },
         "Flowerwood Set": {
-            "unknown": "525"
+            "set": "525"
         },
         "Bow Set": {
-            "unknown": "410"
+            "set": "410"
         },
         "Corrupt Set": {
-            "unknown": "368"
+            "set": "368"
         },
         "Sweet Set": {
-            "unknown": "305"
+            "set": "305"
         },
         "Borealis Set": {
-            "unknown": "285"
+            "set": "285"
         },
         "Full Ice Set": {
-            "unknown": "258"
+            "set": "258"
         },
         "Beach Set": {
-            "unknown": "190"
+            "set": "190"
         },
         "Pearl Set": {
-            "unknown": "155"
+            "set": "155"
         },
         "Bat Set": {
-            "unknown": "153"
+            "set": "153"
         },
         "Candy Set": {
-            "unknown": "112"
+            "set": "112"
         },
         "Full Elderwood Set": {
-            "unknown": "104"
+            "set": "104"
         },
         "Ice Set": {
-            "unknown": "98"
+            "set": "98"
         },
         "Elderwood Set": {
-            "unknown": "71"
+            "set": "71"
         },
         "Spectre Set": {
-            "unknown": "70"
+            "set": "70"
         },
         "Full Swirly Set": {
-            "unknown": "68"
+            "set": "68"
         },
         "Bringer Set": {
-            "unknown": "65"
+            "set": "65"
         },
         "Swirly Set": {
-            "unknown": "56"
+            "set": "56"
         },
         "Hallow Set": {
-            "unknown": "50"
+            "set": "50"
         },
         "Old Glory Set": {
-            "unknown": "37"
+            "set": "37"
         },
         "Slasher Set": {
-            "unknown": "37"
+            "set": "37"
         },
         "Iceflake Set": {
-            "unknown": "33"
+            "set": "33"
         },
         "Plasma Set": {
-            "unknown": "33"
+            "set": "33"
         },
         "Logchopper Set": {
-            "unknown": "31"
+            "set": "31"
         },
         "Ginger Set": {
-            "unknown": "30"
+            "set": "30"
         },
         "Virtual Set": {
-            "unknown": "30"
+            "set": "30"
         },
         "Eternalcane Set": {
-            "unknown": "26"
+            "set": "26"
         },
         "Cookie Set": {
-            "unknown": "25"
+            "set": "25"
         },
         "Pumpkin Set": {
-            "unknown": "403",
-            "unknown_2": "39",
-            "unknown_3": "32",
-            "unknown_4": "7"
+            "set": "403",
+            "set_2": "39",
+            "set_3": "32",
+            "set_4": "7"
         },
         "Latte Set": {
-            "unknown": "280"
+            "set": "280"
         },
         "Bats Set": {
-            "unknown": "241"
+            "set": "241"
         },
         "Zombified Set": {
-            "unknown": "135"
+            "set": "135"
         },
         "Gingerbread Set": {
-            "unknown": "86",
-            "unknown_2": "13"
+            "set": "86",
+            "set_2": "13"
         },
         "Silent Night Set": {
-            "unknown": "62"
+            "set": "62"
         },
         "Spectral Set": {
-            "unknown": "53"
+            "set": "53"
         },
         "Traveler Set": {
-            "unknown": "53"
+            "set": "53"
         },
         "Aurora Set": {
-            "unknown": "48",
-            "unknown_2": "8"
+            "set": "48",
+            "set_2": "8"
         },
         "Vampire Set": {
-            "unknown": "48",
-            "unknown_2": "4"
+            "set": "48",
+            "set_2": "4"
         },
         "Wrap Set": {
-            "unknown": "24"
+            "set": "24"
         },
         "Cavern Set": {
-            "unknown": "8"
+            "set": "8"
         },
         "Toxic Set": {
-            "unknown": "7"
+            "set": "7"
         },
         "Ghost Set": {
-            "unknown": "7"
+            "set": "7"
         },
         "Icedriller Set": {
-            "unknown": "6"
+            "set": "6"
         },
         "Full Elite Set": {
-            "unknown": "6"
+            "set": "6"
         },
         "Santa's Set": {
-            "unknown": "6"
+            "set": "6"
         },
         "Scratch Set": {
-            "unknown": "6"
+            "set": "6"
         },
         "Zombie Set": {
-            "unknown": "6"
+            "set": "6"
         },
         "Eye Set": {
-            "unknown": "6"
+            "set": "6"
         },
         "Snakebite Set": {
-            "unknown": "4"
+            "set": "4"
         },
         "Frozen Set": {
-            "unknown": "4"
+            "set": "4"
         },
         "Marble Set": {
-            "unknown": "4"
+            "set": "4"
         },
         "Potion Set": {
-            "unknown": "4"
+            "set": "4"
         },
         "Candy Swirl Set": {
-            "unknown": "3"
+            "set": "3"
         },
         "Lights Set": {
-            "unknown": "3"
+            "set": "3"
         },
         "Mummy Set": {
-            "unknown": "3"
+            "set": "3"
         },
         "Grave Set": {
-            "unknown": "2"
+            "set": "2"
         },
         "Haunted Set": {
-            "unknown": "2"
+            "set": "2"
         },
         "Slime Set": {
-            "unknown": "2"
+            "set": "2"
         },
         "Full Bringer Set": {
-            "unknown": "190"
+            "set": "190"
         },
         "Full Luger Set": {
-            "unknown": "156"
+            "set": "156"
         },
         "Sparkle Set": {
-            "unknown": "127"
+            "set": "127"
         },
         "Luger Set": {
-            "unknown": "106"
+            "set": "106"
         },
         "Retro Set": {
-            "unknown": "85"
+            "set": "85"
         },
         "Vintage Set": {
-            "unknown": "59"
+            "set": "59"
         },
         "Full Colored Seer Set": {
-            "unknown": "44"
+            "set": "44"
         },
         "Eternal Set": {
-            "unknown": "43"
+            "set": "43"
         },
         "Skate Set": {
-            "unknown": "23"
+            "set": "23"
         },
         "Pals Set": {
-            "unknown": "20"
+            "set": "20"
         },
         "Colored Seer Set": {
-            "unknown": "16"
+            "set": "16"
         },
         "Wrapping Paper Set": {
-            "unknown": "14"
+            "set": "14"
         },
         "Small Set": {
-            "unknown": "1,270",
-            "unknown_2": "1,235"
+            "set": "1,270",
+            "set_2": "1,235"
         },
         "Full Chroma Set": {
-            "unknown": "555"
+            "set": "555"
         },
         "Chroma Weapon Set": {
-            "unknown": "535"
+            "set": "535"
         },
         "Corrupt": {
             "unknown": "350"
