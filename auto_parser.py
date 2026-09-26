@@ -267,14 +267,55 @@ def add_leaf(container, name, value, category):
         container[name][rarity] = value
 
 
-def add_item(result, item):
+CHROMA_PREFIX_RE = re.compile(r"^chroma\s+", re.IGNORECASE)
+CHROMA_SHORT_PREFIX_RE = re.compile(r"^c\.\s*", re.IGNORECASE)
+
+
+def chroma_base_name(name):
+    """Return the normal item name for a Chroma item without changing its stored name."""
+    if not name:
+        return ""
+    base = CHROMA_PREFIX_RE.sub("", name.strip())
+    base = CHROMA_SHORT_PREFIX_RE.sub("", base).strip()
+    return base
+
+
+def build_weapon_lookup(items):
+    """Build a normal item -> weapon type map before processing Chromas."""
+    lookup = {}
+    for item in items:
+        if item.get("category") == "chromas":
+            continue
+        item_type = item.get("type")
+        name = item.get("name")
+        if name and item_type in ("knife", "gun"):
+            lookup[norm_key(name)] = item_type
+    return lookup
+
+
+def resolve_chroma_weapon_type(item, weapon_lookup):
+    """Resolve Chroma weapon type from its corresponding normal weapon."""
+    if item.get("category") != "chromas":
+        return item.get("type")
+
+    # Keep an explicitly detected type if the page itself exposes it.
+    if item.get("type") in ("knife", "gun"):
+        return item["type"]
+
+    base = chroma_base_name(item.get("name", ""))
+    return weapon_lookup.get(norm_key(base))
+
+
+def add_item(result, item, weapon_lookup=None):
     name = item.get("name")
     if not name:
         return
     cat = item.get("category")
-    if item.get("type") == "knife":
+    item_type = resolve_chroma_weapon_type(item, weapon_lookup or {})
+
+    if item_type == "knife":
         add_leaf(result["Оружие"]["Ножи"], name, item["value"], cat)
-    elif item.get("type") == "gun":
+    elif item_type == "gun":
         add_leaf(result["Оружие"]["Пистолеты"], name, item["value"], cat)
     else:
         add_leaf(result["Прочее"], name, item["value"], cat)
@@ -379,8 +420,12 @@ def main():
         items = scrape_browser()
 
     result = empty_result()
+    # First learn weapon types from normal items. Chroma cards often do not
+    # contain the words "Knife" or "Gun", so their type cannot be detected
+    # from the Chroma card alone.
+    weapon_lookup = build_weapon_lookup(items)
     for item in items:
-        add_item(result, item)
+        add_item(result, item, weapon_lookup)
 
     total = count_result(result)
     if total == 0:
