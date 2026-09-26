@@ -1295,8 +1295,8 @@
         "Chroma Sands": {
             "godly_chroma": "1,300"
         },
-        "Chroma Beachy": {
-            "chroma": "1,250"
+        "ChromaBeachy": {
+            "chromaBeachy": "1,250"
         },
         "Chroma Darkbringer": {
             "godly_chroma": "65"
